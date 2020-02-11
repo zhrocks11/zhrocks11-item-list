@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -77,7 +67,7 @@
 	},
 	{
 		"abr": "shortcircuit",
-		"price": 500,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -87,7 +77,7 @@
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 5000,
 		"karmatype": "Doom"
 	},
 	{
@@ -102,7 +92,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 700,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -113,6 +103,11 @@
 	{
 		"abr": "animaltame",
 		"price": 150,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wandererjoins",
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -132,7 +127,7 @@
 	},
 	{
 		"abr": "orbitaltraderarrival",
-		"price": 350,
+		"price": 100,
 		"karmatype": "Good"
 	},
 	{
@@ -212,22 +207,22 @@
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 600,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpoison",
-		"price": 1900,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpsychic",
-		"price": 2400,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -237,7 +232,7 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -247,18 +242,13 @@
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "infestation",
-		"price": 2500,
-		"karmatype": "Bad"
+		"price": 4500,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "manhunterpack",
@@ -282,12 +272,12 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "pawn",
-		"price": 1500,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -297,7 +287,7 @@
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -341,5 +331,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 68
+	"total": 66
 }
