@@ -464,7 +464,7 @@
 	},
 	{
 		"abr": "762gpm",
-		"price": 800,
+		"price": 500,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_HMG"
 	},
@@ -476,37 +476,37 @@
 	},
 	{
 		"abr": "81mmmortar",
-		"price": 708,
+		"price": 500,
 		"category": "Security",
 		"defname": "Turret_Mortar"
 	},
 	{
 		"abr": "81mmmortarshell(anti)",
-		"price": 2500,
+		"price": 250,
 		"category": "81mm mortar shell",
 		"defname": "Shell_AntigrainWarhead"
 	},
 	{
 		"abr": "81mmmortarshell(emp)",
-		"price": 187,
+		"price": 60,
 		"category": "81mm mortar shell",
 		"defname": "Shell_EMP"
 	},
 	{
 		"abr": "81mmmortarshell(foam)",
-		"price": 62,
+		"price": 20,
 		"category": "81mm mortar shell",
 		"defname": "Shell_Firefoam"
 	},
 	{
 		"abr": "81mmmortarshell(he)",
-		"price": 92,
+		"price": 40,
 		"category": "81mm mortar shell",
 		"defname": "Shell_HighExplosive"
 	},
 	{
 		"abr": "81mmmortarshell(incendiary)",
-		"price": 71,
+		"price": 50,
 		"category": "81mm mortar shell",
 		"defname": "Shell_Incendiary"
 	},
@@ -548,7 +548,7 @@
 	},
 	{
 		"abr": "90mmflakturret",
-		"price": 2308,
+		"price": 700,
 		"category": "Security",
 		"defname": "Turret_Flak"
 	},
@@ -572,151 +572,151 @@
 	},
 	{
 		"abr": "abyssiniancat",
-		"price": 333,
+		"price": 75,
 		"category": "Animal",
 		"defname": "AEXP_CatAbyssinian"
 	},
 	{
 		"abr": "abyssiniancatmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_CatAbyssinian"
 	},
 	{
 		"abr": "adrenalineribreplacement",
-		"price": 1333,
+		"price": 1200,
 		"category": "Bionics",
 		"defname": "AdrenalineRib"
 	},
 	{
 		"abr": "advancedbionicarm",
-		"price": 8333,
+		"price": 3000,
 		"category": "Advanced bionics",
 		"defname": "AdvancedBionicArm"
 	},
 	{
 		"abr": "advancedbionicear",
-		"price": 4583,
+		"price": 2500,
 		"category": "Advanced bionics",
 		"defname": "AdvancedBionicEar"
 	},
 	{
 		"abr": "advancedbioniceye",
-		"price": 5000,
+		"price": 2500,
 		"category": "Advanced bionics",
 		"defname": "AdvancedBionicEye"
 	},
 	{
 		"abr": "advancedbionicfoot",
-		"price": 4583,
+		"price": 2000,
 		"category": "Advanced bionics",
 		"defname": "AdvancedBionicFoot"
 	},
 	{
 		"abr": "advancedbionichand",
-		"price": 5000,
+		"price": 2000,
 		"category": "Advanced bionics",
 		"defname": "AdvancedBionicHand"
 	},
 	{
 		"abr": "advancedbionicjaw",
-		"price": 5000,
+		"price": 2500,
 		"category": "Advanced bionics",
 		"defname": "AdvancedBionicJaw"
 	},
 	{
 		"abr": "advancedbionicleg",
-		"price": 8333,
+		"price": 3000,
 		"category": "Advanced bionics",
 		"defname": "AdvancedBionicLeg"
 	},
 	{
 		"abr": "advancedbionicspine",
-		"price": 8333,
+		"price": 3000,
 		"category": "Advanced bionics",
 		"defname": "AdvancedBionicSpine"
 	},
 	{
 		"abr": "advancedcomponent",
-		"price": 333,
+		"price": 100,
 		"category": "Manufactured",
 		"defname": "ComponentSpacer"
 	},
 	{
 		"abr": "advancedgeothermalgenerator",
-		"price": 3908,
+		"price": 2000,
 		"category": "Power",
 		"defname": "sd_adv_powergen_adv_geothermal_generator"
 	},
 	{
 		"abr": "advancednuclearpowerplant",
-		"price": 10067,
+		"price": 4000,
 		"category": "Power",
 		"defname": "sd_adv_powergen_nuclear_power_plant"
 	},
 	{
 		"abr": "advancedpowerarm",
-		"price": 16667,
+		"price": 5000,
 		"category": "Advanced bionics",
 		"defname": "AdvancedPowerArm"
 	},
 	{
 		"abr": "advancedsolargenerator",
-		"price": 1358,
+		"price": 900,
 		"category": "Power",
 		"defname": "sd_adv_powergen_adv_solar_generator"
 	},
 	{
 		"abr": "advancedvest",
-		"price": 808,
+		"price": 600,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_AdvancedVest"
 	},
 	{
 		"abr": "advancedwatermillgenerator",
-		"price": 2142,
+		"price": 1200,
 		"category": "Power",
 		"defname": "sd_adv_powergen_WatermillGenerator"
 	},
 	{
 		"abr": "advancedwindturbine",
-		"price": 1258,
+		"price": 1200,
 		"category": "Power",
 		"defname": "sd_adv_powergen_adv_wind_turbine"
 	},
 	{
 		"abr": "agavefruit",
-		"price": 2,
+		"price": 1,
 		"category": "Fruits",
 		"defname": "RawAgave"
 	},
 	{
 		"abr": "ags-30",
-		"price": 833,
+		"price": 600,
 		"category": "Security",
 		"defname": "Turret_AGSThirty"
 	},
 	{
 		"abr": "aichip",
-		"price": 7500,
+		"price": 3500,
 		"category": "Synthetic organs",
 		"defname": "AIChip"
 	},
 	{
 		"abr": "aipersonacore",
-		"price": 6667,
+		"price": 3000,
 		"category": "Items",
 		"defname": "AIPersonaCore"
 	},
 	{
 		"abr": "ak-47",
-		"price": 725,
+		"price": 400,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ServiceRifle"
 	},
 	{
 		"abr": "alligator",
-		"price": 1250,
+		"price": 600,
 		"category": "Animal",
 		"defname": "AEXP_Alligator"
 	},
@@ -728,37 +728,37 @@
 	},
 	{
 		"abr": "alligatormeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Alligator"
 	},
 	{
 		"abr": "alpaca",
-		"price": 583,
+		"price": 300,
 		"category": "Animal",
 		"defname": "Alpaca"
 	},
 	{
 		"abr": "alpacameat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Alpaca"
 	},
 	{
 		"abr": "alpacawool",
-		"price": 4,
+		"price": 1,
 		"category": "Textiles",
 		"defname": "WoolAlpaca"
 	},
 	{
 		"abr": "alphabeaver",
-		"price": 417,
+		"price": 200,
 		"category": "Animal",
 		"defname": "Alphabeaver"
 	},
 	{
 		"abr": "alphabeavermeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Alphabeaver"
 	},
@@ -770,7 +770,7 @@
 	},
 	{
 		"abr": "anaconda",
-		"price": 1292,
+		"price": 600,
 		"category": "Animal",
 		"defname": "AEXP_Anaconda"
 	},
@@ -782,19 +782,19 @@
 	},
 	{
 		"abr": "animalbed",
-		"price": 136,
+		"price": 100,
 		"category": "Furniture",
 		"defname": "AnimalBed"
 	},
 	{
 		"abr": "animalprostheticstable",
-		"price": 367,
+		"price": 300,
 		"category": "Production",
 		"defname": "TableAnimalProsthetics"
 	},
 	{
 		"abr": "animalsleepingbox",
-		"price": 84,
+		"price": 50,
 		"category": "Furniture",
 		"defname": "AnimalSleepingBox"
 	},
@@ -806,19 +806,19 @@
 	},
 	{
 		"abr": "archotecharm",
-		"price": 4667,
+		"price": 4000,
 		"category": "Advanced bionics",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotecheye",
-		"price": 4667,
+		"price": 3500,
 		"category": "Advanced bionics",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotechleg",
-		"price": 4667,
+		"price": 4000,
 		"category": "Advanced bionics",
 		"defname": "ArchotechLeg"
 	},
@@ -830,37 +830,37 @@
 	},
 	{
 		"abr": "arcticcoyotemeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_ArcticCoyote"
 	},
 	{
 		"abr": "arcticfox",
-		"price": 333,
+		"price": 200,
 		"category": "Animal",
 		"defname": "Fox_Arctic"
 	},
 	{
 		"abr": "arcticwolf",
-		"price": 583,
+		"price": 300,
 		"category": "Animal",
 		"defname": "Wolf_Arctic"
 	},
 	{
 		"abr": "arm",
-		"price": 2167,
+		"price": 600,
 		"category": "Natural",
 		"defname": "Arm"
 	},
 	{
 		"abr": "armchair",
-		"price": 450,
+		"price": 300,
 		"category": "Furniture",
 		"defname": "Armchair"
 	},
 	{
 		"abr": "armorvest",
-		"price": 425,
+		"price": 300,
 		"category": "Apparel",
 		"defname": "Apparel_FlakVest"
 	},
@@ -884,61 +884,61 @@
 	},
 	{
 		"abr": "artificialclavicle",
-		"price": 167,
+		"price": 100,
 		"category": "Simple prostheses",
 		"defname": "ArtificialClavicle"
 	},
 	{
 		"abr": "artificialnose",
-		"price": 500,
+		"price": 300,
 		"category": "Simple prostheses",
 		"defname": "ArtificialNose"
 	},
 	{
 		"abr": "artificialpelvis",
-		"price": 750,
+		"price": 400,
 		"category": "Simple prostheses",
 		"defname": "ArtificialPelvis"
 	},
 	{
 		"abr": "auga1",
-		"price": 758,
+		"price": 500,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_Carbine"
 	},
 	{
 		"abr": "autopsytable",
-		"price": 400,
+		"price": 200,
 		"category": "Production",
 		"defname": "TableAutopsy"
 	},
 	{
 		"abr": "auxiliaryai(agricultural)",
-		"price": 7500,
+		"price": 3500,
 		"category": "Synthetic organs",
 		"defname": "FarmerCore"
 	},
 	{
 		"abr": "auxiliaryai(constructing)",
-		"price": 7500,
+		"price": 3500,
 		"category": "Synthetic organs",
 		"defname": "ConstructorCore"
 	},
 	{
 		"abr": "auxiliaryai(diplomatic)",
-		"price": 7500,
+		"price": 3500,
 		"category": "Synthetic organs",
 		"defname": "DiplomatCore"
 	},
 	{
 		"abr": "auxiliaryai(medical)",
-		"price": 7500,
+		"price": 3500,
 		"category": "Synthetic organs",
 		"defname": "DoctorCore"
 	},
 	{
 		"abr": "auxiliaryai(mining)",
-		"price": 7500,
+		"price": 3500,
 		"category": "Synthetic organs",
 		"defname": "MinerCore"
 	},
@@ -968,13 +968,13 @@
 	},
 	{
 		"abr": "ballisticshield",
-		"price": 417,
+		"price": 300,
 		"category": "Shields",
 		"defname": "Apparel_BallisticShield"
 	},
 	{
 		"abr": "barretamr",
-		"price": 1717,
+		"price": 600,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_AntiMaterialRifle"
 	},
@@ -998,7 +998,7 @@
 	},
 	{
 		"abr": "battery",
-		"price": 333,
+		"price": 150,
 		"category": "Power",
 		"defname": "Battery"
 	},
@@ -1010,19 +1010,19 @@
 	},
 	{
 		"abr": "beagle",
-		"price": 167,
+		"price": 150,
 		"category": "Animal",
 		"defname": "AEXP_Beagle"
 	},
 	{
 		"abr": "beaglemeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Beagle"
 	},
 	{
 		"abr": "bearmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Bear_Grizzly"
 	},
@@ -1046,25 +1046,25 @@
 	},
 	{
 		"abr": "beef",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Cow"
 	},
 	{
 		"abr": "beef",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Yak"
 	},
 	{
 		"abr": "beef",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Wildebeest"
 	},
 	{
 		"abr": "beer",
-		"price": 20,
+		"price": 10,
 		"category": "Drugs",
 		"defname": "Beer"
 	},
@@ -1076,19 +1076,19 @@
 	},
 	{
 		"abr": "bengalcat",
-		"price": 333,
+		"price": 150,
 		"category": "Animal",
 		"defname": "AEXP_CatBengal"
 	},
 	{
 		"abr": "bengalcatmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_CatBengal"
 	},
 	{
 		"abr": "berries",
-		"price": 2,
+		"price": 1,
 		"category": "Fruits",
 		"defname": "RawBerries"
 	},
@@ -1100,97 +1100,97 @@
 	},
 	{
 		"abr": "binoculars",
-		"price": 1083,
+		"price": 300,
 		"category": "Ranged weapons",
 		"defname": "Gun_BinocularsRadio"
 	},
 	{
 		"abr": "bionicanimalarm",
-		"price": 892,
+		"price": 500,
 		"category": "Animal Body Part",
 		"defname": "BionicArmAnimal"
 	},
 	{
 		"abr": "bionicanimalbrainstimulator",
-		"price": 1508,
+		"price": 750,
 		"category": "Animal Body Part",
 		"defname": "AnimalBrainStimulator"
 	},
 	{
 		"abr": "bionicanimalearimplant",
-		"price": 867,
+		"price": 500,
 		"category": "Animal Body Part",
 		"defname": "EarAnimalBionic"
 	},
 	{
 		"abr": "bionicanimaleye",
-		"price": 867,
+		"price": 500,
 		"category": "Animal Body Part",
 		"defname": "BionicEyeAnimal"
 	},
 	{
 		"abr": "bionicanimalheart",
-		"price": 667,
+		"price": 350,
 		"category": "Animal Body Part",
 		"defname": "BionicAnimalHeart"
 	},
 	{
 		"abr": "bionicanimaljaw",
-		"price": 867,
+		"price": 500,
 		"category": "Animal Body Part",
 		"defname": "JawAnimalBionic"
 	},
 	{
 		"abr": "bionicanimalkidney",
-		"price": 483,
+		"price": 300,
 		"category": "Animal Body Part",
 		"defname": "BionicAnimalKidney"
 	},
 	{
 		"abr": "bionicanimalleg",
-		"price": 892,
+		"price": 500,
 		"category": "Animal Body Part",
 		"defname": "BionicLegAnimal"
 	},
 	{
 		"abr": "bionicanimalliver",
-		"price": 483,
+		"price": 300,
 		"category": "Animal Body Part",
 		"defname": "BionicAnimalLiver"
 	},
 	{
 		"abr": "bionicanimallung",
-		"price": 483,
+		"price": 300,
 		"category": "Animal Body Part",
 		"defname": "BionicAnimalLung"
 	},
 	{
 		"abr": "bionicanimalspine",
-		"price": 1050,
+		"price": 500,
 		"category": "Animal Body Part",
 		"defname": "SpineAnimalBionic"
 	},
 	{
 		"abr": "bionicanimalstomach",
-		"price": 492,
+		"price": 300,
 		"category": "Animal Body Part",
 		"defname": "BionicAnimalStomach"
 	},
 	{
 		"abr": "bionicarm",
-		"price": 2917,
+		"price": 2000,
 		"category": "Bionics",
 		"defname": "BionicArm"
 	},
 	{
 		"abr": "bionicearimplant",
-		"price": 1333,
+		"price": 1500,
 		"category": "Bionics",
 		"defname": "BionicEar"
 	},
 	{
 		"abr": "bioniceye",
-		"price": 2500,
+		"price": 1500,
 		"category": "Bionics",
 		"defname": "BionicEye"
 	},
@@ -1202,31 +1202,31 @@
 	},
 	{
 		"abr": "bionichand",
-		"price": 1667,
+		"price": 1250,
 		"category": "Bionics",
 		"defname": "BionicHand"
 	},
 	{
 		"abr": "bionicjawimplant",
-		"price": 1667,
+		"price": 1500,
 		"category": "Bionics",
 		"defname": "BionicJaw"
 	},
 	{
 		"abr": "bionicleg",
-		"price": 2917,
+		"price": 2000,
 		"category": "Bionics",
 		"defname": "BionicLeg"
 	},
 	{
 		"abr": "bionicreproductiveorgans",
-		"price": 1708,
+		"price": 1200,
 		"category": "Artificial",
 		"defname": "BionicReproductiveOrgans"
 	},
 	{
 		"abr": "bionicspine",
-		"price": 2917,
+		"price": 2000,
 		"category": "Bionics",
 		"defname": "BionicSpine"
 	},
@@ -1238,13 +1238,13 @@
 	},
 	{
 		"abr": "birdmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Cassowary"
 	},
 	{
 		"abr": "birdmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Goose"
 	},
@@ -1256,13 +1256,13 @@
 	},
 	{
 		"abr": "bison",
-		"price": 583,
+		"price": 400,
 		"category": "Animal",
 		"defname": "AEXP_Bison"
 	},
 	{
 		"abr": "bisonmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Bison"
 	},
@@ -1274,43 +1274,43 @@
 	},
 	{
 		"abr": "blackbear",
-		"price": 1167,
+		"price": 600,
 		"category": "Animal",
 		"defname": "AEXP_BlackBear"
 	},
 	{
 		"abr": "blendedwool",
-		"price": 4,
+		"price": 1,
 		"category": "Textiles",
 		"defname": "VG_BlendedWool"
 	},
 	{
 		"abr": "bluefur",
-		"price": 4,
+		"price": 2,
 		"category": "Leathers",
 		"defname": "Leather_Bluefur"
 	},
 	{
 		"abr": "boomalope",
-		"price": 583,
+		"price": 250,
 		"category": "Animal",
 		"defname": "Boomalope"
 	},
 	{
 		"abr": "boomalopemeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Boomalope"
 	},
 	{
 		"abr": "boomrat",
-		"price": 167,
+		"price": 150,
 		"category": "Animal",
 		"defname": "Boomrat"
 	},
 	{
 		"abr": "boomratmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Boomrat"
 	},
@@ -1322,7 +1322,7 @@
 	},
 	{
 		"abr": "brainstimulator",
-		"price": 1667,
+		"price": 1000,
 		"category": "Surrogate organs",
 		"defname": "BrainStimulator"
 	},
@@ -1334,13 +1334,13 @@
 	},
 	{
 		"abr": "britishshorthaircat",
-		"price": 333,
+		"price": 150,
 		"category": "Animal",
 		"defname": "AEXP_CatBritishShorthair"
 	},
 	{
 		"abr": "britishshorthaircatmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_CatBritishShorthair"
 	},
@@ -1358,31 +1358,31 @@
 	},
 	{
 		"abr": "button-downshirt",
-		"price": 166,
+		"price": 150,
 		"category": "Apparel",
 		"defname": "Apparel_CollarShirt"
 	},
 	{
 		"abr": "camel",
-		"price": 533,
+		"price": 500,
 		"category": "Animal",
 		"defname": "AEXP_Camel"
 	},
 	{
 		"abr": "camelmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Camel"
 	},
 	{
 		"abr": "camelhair",
-		"price": 4,
+		"price": 1,
 		"category": "Textiles",
 		"defname": "WoolCamel"
 	},
 	{
 		"abr": "camelhide",
-		"price": 4,
+		"price": 2,
 		"category": "Leathers",
 		"defname": "Leather_Camel"
 	},
@@ -1394,25 +1394,25 @@
 	},
 	{
 		"abr": "capybarameat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Capybara"
 	},
 	{
 		"abr": "caribou",
-		"price": 500,
+		"price": 350,
 		"category": "Animal",
 		"defname": "Caribou"
 	},
 	{
 		"abr": "cariboumeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Caribou"
 	},
 	{
 		"abr": "cassowary",
-		"price": 333,
+		"price": 200,
 		"category": "Animal",
 		"defname": "Cassowary"
 	},
@@ -1424,85 +1424,85 @@
 	},
 	{
 		"abr": "cat",
-		"price": 167,
+		"price": 150,
 		"category": "Animal",
 		"defname": "Cat"
 	},
 	{
 		"abr": "catmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Cat"
 	},
 	{
 		"abr": "chainmail",
-		"price": 417,
+		"price": 400,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_Chainmail"
 	},
 	{
 		"abr": "chargeblasterauto-turret",
-		"price": 1583,
+		"price": 1200,
 		"category": "Security",
 		"defname": "Turret_Blaster"
 	},
 	{
 		"abr": "chargelmg",
-		"price": 2833,
+		"price": 1000,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeLMG"
 	},
 	{
 		"abr": "chargeminigun",
-		"price": 5458,
+		"price": 1200,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeMinigun"
 	},
 	{
 		"abr": "chargepistol",
-		"price": 1008,
+		"price": 800,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargePistol"
 	},
 	{
 		"abr": "chargerocketlauncher",
-		"price": 11667,
+		"price": 1800,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeRocketLauncher"
 	},
 	{
 		"abr": "chargeshotgun",
-		"price": 1617,
+		"price": 1000,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeShotgun"
 	},
 	{
 		"abr": "chargesmg",
-		"price": 1508,
+		"price": 1200,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeSMG"
 	},
 	{
 		"abr": "chargesniperrifle",
-		"price": 1783,
+		"price": 1200,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeSniperRifle"
 	},
 	{
 		"abr": "cheetah",
-		"price": 667,
+		"price": 600,
 		"category": "Animal",
 		"defname": "AEXP_Cheetah"
 	},
 	{
 		"abr": "cheetahmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Cheetah"
 	},
 	{
 		"abr": "chemfuel",
-		"price": 4,
+		"price": 3,
 		"category": "Manufactured",
 		"defname": "Chemfuel"
 	},
@@ -1514,13 +1514,13 @@
 	},
 	{
 		"abr": "chestplate",
-		"price": 383,
+		"price": 400,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_Chestplate"
 	},
 	{
 		"abr": "chicken",
-		"price": 83,
+		"price": 75,
 		"category": "Animal",
 		"defname": "Chicken"
 	},
@@ -1538,25 +1538,25 @@
 	},
 	{
 		"abr": "chickenmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Chicken"
 	},
 	{
 		"abr": "chihuahua",
-		"price": 550,
+		"price": 150,
 		"category": "Animal",
 		"defname": "AEXP_Chihuahua"
 	},
 	{
 		"abr": "chihuahuameat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Chihuahua"
 	},
 	{
 		"abr": "chinchilla",
-		"price": 250,
+		"price": 50,
 		"category": "Animal",
 		"defname": "Chinchilla"
 	},
@@ -1568,13 +1568,13 @@
 	},
 	{
 		"abr": "chinchillameat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Chinchilla"
 	},
 	{
 		"abr": "chocolate",
-		"price": 5,
+		"price": 3,
 		"category": "Foods",
 		"defname": "Chocolate"
 	},
@@ -1586,7 +1586,7 @@
 	},
 	{
 		"abr": "cloth",
-		"price": 2,
+		"price": 1,
 		"category": "Textiles",
 		"defname": "Cloth"
 	},
@@ -1598,7 +1598,7 @@
 	},
 	{
 		"abr": "cobra",
-		"price": 250,
+		"price": 200,
 		"category": "Animal",
 		"defname": "Cobra"
 	},
@@ -1610,19 +1610,19 @@
 	},
 	{
 		"abr": "cobraflesh",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Cobra"
 	},
 	{
 		"abr": "cobraflesh",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Rattlesnake"
 	},
 	{
 		"abr": "cochlearimplant",
-		"price": 833,
+		"price": 500,
 		"category": "Simple prostheses",
 		"defname": "CochlearImplant"
 	},
@@ -1634,7 +1634,7 @@
 	},
 	{
 		"abr": "component",
-		"price": 53,
+		"price": 35,
 		"category": "Manufactured",
 		"defname": "ComponentIndustrial"
 	},
@@ -1646,7 +1646,7 @@
 	},
 	{
 		"abr": "compositevest",
-		"price": 442,
+		"price": 450,
 		"category": "Apparel",
 		"defname": "Apparel_CompositeVest"
 	},
@@ -1658,37 +1658,37 @@
 	},
 	{
 		"abr": "corgi",
-		"price": 1083,
+		"price": 150,
 		"category": "Animal",
 		"defname": "AEXP_Corgi"
 	},
 	{
 		"abr": "corgimeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Corgi"
 	},
 	{
 		"abr": "corn",
-		"price": 2,
+		"price": 1,
 		"category": "Vegetarian",
 		"defname": "RawCorn"
 	},
 	{
 		"abr": "cottonfibre",
-		"price": 2,
+		"price": 1,
 		"category": "Raw textiles",
 		"defname": "RawCotton"
 	},
 	{
 		"abr": "cougar",
-		"price": 667,
+		"price": 600,
 		"category": "Animal",
 		"defname": "Cougar"
 	},
 	{
 		"abr": "cougarmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Cougar"
 	},
@@ -1700,7 +1700,7 @@
 	},
 	{
 		"abr": "cow",
-		"price": 500,
+		"price": 400,
 		"category": "Animal",
 		"defname": "Cow"
 	},
@@ -1718,13 +1718,13 @@
 	},
 	{
 		"abr": "coyotemeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Coyote"
 	},
 	{
 		"abr": "crocodile",
-		"price": 1333,
+		"price": 600,
 		"category": "Animal",
 		"defname": "AEXP_Crocodile"
 	},
@@ -1742,7 +1742,7 @@
 	},
 	{
 		"abr": "crocodilemeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Crocodile"
 	},
@@ -1760,7 +1760,7 @@
 	},
 	{
 		"abr": "crossbowbolt(plasteel)",
-		"price": 6,
+		"price": 2,
 		"category": "Crossbow bolts",
 		"defname": "Ammo_CrossbowBolt_Plasteel"
 	},
@@ -1772,13 +1772,13 @@
 	},
 	{
 		"abr": "cryptosleepsuspender",
-		"price": 733,
+		"price": 500,
 		"category": "Furniture",
 		"defname": "Bed_CryptoBed"
 	},
 	{
 		"abr": "dartsboard",
-		"price": 174,
+		"price": 150,
 		"category": "Furniture",
 		"defname": "Joy_DartsBoard"
 	},
@@ -1790,25 +1790,25 @@
 	},
 	{
 		"abr": "deer",
-		"price": 417,
+		"price": 250,
 		"category": "Animal",
 		"defname": "Deer"
 	},
 	{
 		"abr": "degtyarevdp",
-		"price": 750,
+		"price": 500,
 		"category": "Ranged weapons",
 		"defname": "Gun_LMG"
 	},
 	{
 		"abr": "denture",
-		"price": 67,
+		"price": 100,
 		"category": "Basic prostheses",
 		"defname": "denture"
 	},
 	{
 		"abr": "deserttortoise",
-		"price": 417,
+		"price": 200,
 		"category": "Animal",
 		"defname": "AEXP_DesertTortoise"
 	},
@@ -1826,19 +1826,19 @@
 	},
 	{
 		"abr": "deserttortoisemeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_DesertTortoise"
 	},
 	{
 		"abr": "devilstrand",
-		"price": 9,
+		"price": 3,
 		"category": "Textiles",
 		"defname": "DevilstrandCloth"
 	},
 	{
 		"abr": "diningchair",
-		"price": 198,
+		"price": 100,
 		"category": "Furniture",
 		"defname": "DiningChair"
 	},
@@ -1850,7 +1850,7 @@
 	},
 	{
 		"abr": "donkey",
-		"price": 667,
+		"price": 350,
 		"category": "Animal",
 		"defname": "AEXP_Donkey"
 	},
@@ -1862,19 +1862,19 @@
 	},
 	{
 		"abr": "doublebed",
-		"price": 292,
+		"price": 250,
 		"category": "Furniture",
 		"defname": "DoubleBed"
 	},
 	{
 		"abr": "doublebedroll",
-		"price": 290,
+		"price": 100,
 		"category": "Furniture",
 		"defname": "BedrollDouble"
 	},
 	{
 		"abr": "dragunovsvd",
-		"price": 1050,
+		"price": 700,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_MarksmanRifle"
 	},
@@ -1892,7 +1892,7 @@
 	},
 	{
 		"abr": "dromedarymeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Dromedary"
 	},
@@ -1910,7 +1910,7 @@
 	},
 	{
 		"abr": "druggedribreplacement",
-		"price": 1333,
+		"price": 1200,
 		"category": "Bionics",
 		"defname": "DruggedRib"
 	},
@@ -1934,25 +1934,25 @@
 	},
 	{
 		"abr": "duckmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Duck"
 	},
 	{
 		"abr": "duster",
-		"price": 327,
+		"price": 250,
 		"category": "Apparel",
 		"defname": "Apparel_Duster"
 	},
 	{
 		"abr": "ear",
-		"price": 833,
+		"price": 300,
 		"category": "Natural",
 		"defname": "Ear"
 	},
 	{
 		"abr": "earbandage",
-		"price": 83,
+		"price": 100,
 		"category": "Basic prostheses",
 		"defname": "EarBandage"
 	},
@@ -2006,7 +2006,7 @@
 	},
 	{
 		"abr": "elephant",
-		"price": 1000,
+		"price": 700,
 		"category": "Animal",
 		"defname": "Elephant"
 	},
@@ -2018,7 +2018,7 @@
 	},
 	{
 		"abr": "elephantmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Elephant"
 	},
@@ -2030,13 +2030,13 @@
 	},
 	{
 		"abr": "elk",
-		"price": 500,
+		"price": 300,
 		"category": "Animal",
 		"defname": "Elk"
 	},
 	{
 		"abr": "elkmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Elk"
 	},
@@ -2048,7 +2048,7 @@
 	},
 	{
 		"abr": "emu",
-		"price": 333,
+		"price": 200,
 		"category": "Animal",
 		"defname": "Emu"
 	},
@@ -2072,31 +2072,31 @@
 	},
 	{
 		"abr": "ergonomicchair",
-		"price": 858,
+		"price": 250,
 		"category": "Furniture",
 		"defname": "Seat_ModernChair"
 	},
 	{
 		"abr": "ergonomicdoublebed",
-		"price": 867,
+		"price": 550,
 		"category": "Furniture",
 		"defname": "Bed_DoubleErgonomic"
 	},
 	{
 		"abr": "exoskeletonsuit",
-		"price": 7500,
+		"price": 4000,
 		"category": "Advanced bionics",
 		"defname": "ExoskeletonSuit"
 	},
 	{
 		"abr": "eyepatch",
-		"price": 108,
+		"price": 100,
 		"category": "Basic prostheses",
 		"defname": "EyePatch"
 	},
 	{
 		"abr": "eyeball",
-		"price": 2500,
+		"price": 300,
 		"category": "Natural",
 		"defname": "Eye"
 	},
@@ -2108,13 +2108,13 @@
 	},
 	{
 		"abr": "femaleroyalthrumbohorn",
-		"price": 2667,
+		"price": 1000,
 		"category": "Items",
 		"defname": "OG_ThrumboRoyalHornF"
 	},
 	{
 		"abr": "fennecfox",
-		"price": 333,
+		"price": 150,
 		"category": "Animal",
 		"defname": "Fox_Fennec"
 	},
@@ -2132,13 +2132,13 @@
 	},
 	{
 		"abr": "finemeal",
-		"price": 33,
+		"price": 15,
 		"category": "Meals",
 		"defname": "MealFine"
 	},
 	{
 		"abr": "fireextinguisher",
-		"price": 508,
+		"price": 50,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_FireExtinguisher"
 	},
@@ -2150,19 +2150,19 @@
 	},
 	{
 		"abr": "firefoampopper",
-		"price": 300,
+		"price": 50,
 		"category": "Misc",
 		"defname": "FirefoamPopper"
 	},
 	{
 		"abr": "flakjacket",
-		"price": 450,
+		"price": 400,
 		"category": "Apparel",
 		"defname": "Apparel_FlakJacket"
 	},
 	{
 		"abr": "flakpants",
-		"price": 268,
+		"price": 250,
 		"category": "Apparel",
 		"defname": "Apparel_FlakPants"
 	},
@@ -2174,13 +2174,13 @@
 	},
 	{
 		"abr": "flamethrower",
-		"price": 667,
+		"price": 800,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_Flamethrower"
 	},
 	{
 		"abr": "flashgrenades",
-		"price": 4,
+		"price": 25,
 		"category": "Grenades",
 		"defname": "VWE_FlashGrenade"
 	},
@@ -2192,7 +2192,7 @@
 	},
 	{
 		"abr": "flatscreentelevision",
-		"price": 1533,
+		"price": 1000,
 		"category": "Recreation",
 		"defname": "FlatscreenTelevision"
 	},
@@ -2228,7 +2228,7 @@
 	},
 	{
 		"abr": "foxmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Fox_Fennec"
 	},
@@ -2240,19 +2240,19 @@
 	},
 	{
 		"abr": "frenchbulldog",
-		"price": 250,
+		"price": 150,
 		"category": "Animal",
 		"defname": "AEXP_FrenchBulldog"
 	},
 	{
 		"abr": "frenchbulldogmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_FrenchBulldog"
 	},
 	{
 		"abr": "fsx",
-		"price": 17,
+		"price": 10,
 		"category": "Raw resources",
 		"defname": "FSX"
 	},
@@ -2300,19 +2300,19 @@
 	},
 	{
 		"abr": "gazellemeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Gazelle"
 	},
 	{
 		"abr": "germanshepherd",
-		"price": 750,
+		"price": 300,
 		"category": "Animal",
 		"defname": "AEXP_GermanShepherd"
 	},
 	{
 		"abr": "germanshepherdmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_GermanShepherd"
 	},
@@ -2324,13 +2324,13 @@
 	},
 	{
 		"abr": "ghilliesuit",
-		"price": 475,
+		"price": 400,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_GhillieSuit"
 	},
 	{
 		"abr": "gilamonster",
-		"price": 333,
+		"price": 200,
 		"category": "Animal",
 		"defname": "AEXP_GilaMonster"
 	},
@@ -2348,19 +2348,19 @@
 	},
 	{
 		"abr": "gilamonstermeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_GilaMonster"
 	},
 	{
 		"abr": "giraffe",
-		"price": 1083,
+		"price": 700,
 		"category": "Animal",
 		"defname": "AEXP_Giraffe"
 	},
 	{
 		"abr": "giraffemeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Giraffe"
 	},
@@ -2372,7 +2372,7 @@
 	},
 	{
 		"abr": "glitterworldmedicine",
-		"price": 83,
+		"price": 75,
 		"category": "Medicine",
 		"defname": "MedicineUltratech"
 	},
@@ -2384,13 +2384,13 @@
 	},
 	{
 		"abr": "goat",
-		"price": 333,
+		"price": 200,
 		"category": "Animal",
 		"defname": "AEXP_Goat"
 	},
 	{
 		"abr": "goatmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Goat"
 	},
@@ -2402,25 +2402,25 @@
 	},
 	{
 		"abr": "gold",
-		"price": 17,
+		"price": 10,
 		"category": "Raw resources",
 		"defname": "Gold"
 	},
 	{
 		"abr": "goldfernleaves",
-		"price": 6,
+		"price": 3,
 		"category": "Resource plants",
 		"defname": "RawGoldLeaf"
 	},
 	{
 		"abr": "goldeneye",
-		"price": 500,
+		"price": 300,
 		"category": "Simple prostheses",
 		"defname": "GoldenEye"
 	},
 	{
 		"abr": "goose",
-		"price": 150,
+		"price": 100,
 		"category": "Animal",
 		"defname": "AEXP_Goose"
 	},
@@ -2438,19 +2438,19 @@
 	},
 	{
 		"abr": "gorilla",
-		"price": 917,
+		"price": 600,
 		"category": "Animal",
 		"defname": "AEXP_Gorilla"
 	},
 	{
 		"abr": "grandsculpture",
-		"price": 1125,
+		"price": 1000,
 		"category": "Art",
 		"defname": "SculptureGrand"
 	},
 	{
 		"abr": "graniteblocks",
-		"price": 2,
+		"price": 1,
 		"category": "Stone blocks",
 		"defname": "BlocksGranite"
 	},
@@ -2474,13 +2474,13 @@
 	},
 	{
 		"abr": "greatdane",
-		"price": 1083,
+		"price": 250,
 		"category": "Animal",
 		"defname": "AEXP_GreatDane"
 	},
 	{
 		"abr": "greatdanemeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_GreatDane"
 	},
@@ -2492,19 +2492,19 @@
 	},
 	{
 		"abr": "grenadelauncher",
-		"price": 508,
+		"price": 500,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_GrenadeLauncher"
 	},
 	{
 		"abr": "grizzlybear",
-		"price": 1167,
+		"price": 600,
 		"category": "Animal",
 		"defname": "Bear_Grizzly"
 	},
 	{
 		"abr": "guineapig",
-		"price": 250,
+		"price": 50,
 		"category": "Animal",
 		"defname": "AEXP_GuineaPig"
 	},
@@ -2516,7 +2516,7 @@
 	},
 	{
 		"abr": "guineapigmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_GuineaPig"
 	},
@@ -2540,13 +2540,13 @@
 	},
 	{
 		"abr": "hare",
-		"price": 83,
+		"price": 75,
 		"category": "Animal",
 		"defname": "Hare"
 	},
 	{
 		"abr": "haremeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Hare"
 	},
@@ -2558,7 +2558,7 @@
 	},
 	{
 		"abr": "hazmatmask",
-		"price": 308,
+		"price": 300,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_HAZMATMask"
 	},
@@ -2570,25 +2570,25 @@
 	},
 	{
 		"abr": "healermechserum",
-		"price": 2167,
+		"price": 1500,
 		"category": "Items",
 		"defname": "MechSerumHealer"
 	},
 	{
 		"abr": "heart",
-		"price": 3333,
+		"price": 1000,
 		"category": "Natural",
 		"defname": "Heart"
 	},
 	{
 		"abr": "heater",
-		"price": 218,
+		"price": 200,
 		"category": "Temperature",
 		"defname": "Heater"
 	},
 	{
 		"abr": "heavyauto-turret",
-		"price": 3583,
+		"price": 1500,
 		"category": "Security",
 		"defname": "Turret_Heavy"
 	},
@@ -2600,31 +2600,31 @@
 	},
 	{
 		"abr": "heavypowerarmor",
-		"price": 6083,
+		"price": 3000,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_HeavyMarineArmor"
 	},
 	{
 		"abr": "heavypowerarmorhelmet",
-		"price": 2317,
+		"price": 1500,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_HeavyMarineHelmet"
 	},
 	{
 		"abr": "hemp",
-		"price": 5,
+		"price": 2,
 		"category": "Textiles",
 		"defname": "HempCloth"
 	},
 	{
 		"abr": "herbalmedicine",
-		"price": 17,
+		"price": 10,
 		"category": "Medicine",
 		"defname": "MedicineHerbal"
 	},
 	{
 		"abr": "hippopotamus",
-		"price": 1333,
+		"price": 600,
 		"category": "Animal",
 		"defname": "AEXP_Hippopotamus"
 	},
@@ -2636,13 +2636,13 @@
 	},
 	{
 		"abr": "hippopotamusmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Hippopotamus"
 	},
 	{
 		"abr": "hookhand",
-		"price": 192,
+		"price": 150,
 		"category": "Basic prostheses",
 		"defname": "HookHand"
 	},
@@ -2654,49 +2654,49 @@
 	},
 	{
 		"abr": "hops",
-		"price": 2,
+		"price": 1,
 		"category": "Plant matter",
 		"defname": "RawHops"
 	},
 	{
 		"abr": "horse",
-		"price": 917,
+		"price": 500,
 		"category": "Animal",
 		"defname": "AEXP_Horse"
 	},
 	{
 		"abr": "horsemeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Horse"
 	},
 	{
 		"abr": "horsemeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Donkey"
 	},
 	{
 		"abr": "horsemeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Zebra"
 	},
 	{
 		"abr": "horseshoespin",
-		"price": 34,
+		"price": 60,
 		"category": "Recreation",
 		"defname": "HorseshoesPin"
 	},
 	{
 		"abr": "hospitalbed",
-		"price": 667,
+		"price": 300,
 		"category": "Furniture",
 		"defname": "HospitalBed"
 	},
 	{
 		"abr": "human",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Human"
 	},
@@ -2708,91 +2708,91 @@
 	},
 	{
 		"abr": "humanmeat",
-		"price": 1,
+		"price": 2,
 		"category": "Meat",
 		"defname": "Meat_Human"
 	},
 	{
 		"abr": "husky",
-		"price": 417,
+		"price": 250,
 		"category": "Animal",
 		"defname": "Husky"
 	},
 	{
 		"abr": "huskymeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Husky"
 	},
 	{
 		"abr": "hydraulicjaw",
-		"price": 333,
+		"price": 300,
 		"category": "Simple prostheses",
 		"defname": "HydraulicJaw"
 	},
 	{
 		"abr": "hyena",
-		"price": 308,
+		"price": 400,
 		"category": "Animal",
 		"defname": "AEXP_Hyena"
 	},
 	{
 		"abr": "hyenameat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Hyena"
 	},
 	{
 		"abr": "hyperweave",
-		"price": 15,
+		"price": 8,
 		"category": "Textiles",
 		"defname": "Hyperweave"
 	},
 	{
 		"abr": "ibex",
-		"price": 417,
+		"price": 250,
 		"category": "Animal",
 		"defname": "Ibex"
 	},
 	{
 		"abr": "ibexmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Ibex"
 	},
 	{
 		"abr": "iedantigrainwarheadtrap",
-		"price": 2508,
+		"price": 1000,
 		"category": "Security",
 		"defname": "TrapIED_AntigrainWarhead"
 	},
 	{
 		"abr": "iedemptrap",
-		"price": 383,
+		"price": 250,
 		"category": "Security",
 		"defname": "TrapIED_EMP"
 	},
 	{
 		"abr": "iedfirefoamtrap",
-		"price": 132,
+		"price": 100,
 		"category": "Security",
 		"defname": "TrapIED_Firefoam"
 	},
 	{
 		"abr": "iedincendiarytrap",
-		"price": 113,
+		"price": 100,
 		"category": "Security",
 		"defname": "TrapIED_Incendiary"
 	},
 	{
 		"abr": "iedtrap",
-		"price": 127,
+		"price": 100,
 		"category": "Security",
 		"defname": "TrapIED_HighExplosive"
 	},
 	{
 		"abr": "iguana",
-		"price": 167,
+		"price": 150,
 		"category": "Animal",
 		"defname": "Iguana"
 	},
@@ -2804,7 +2804,7 @@
 	},
 	{
 		"abr": "iguanameat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Iguana"
 	},
@@ -2822,13 +2822,13 @@
 	},
 	{
 		"abr": "indiantelephant",
-		"price": 1000,
+		"price": 700,
 		"category": "Animal",
 		"defname": "AEXP_IndianElephant"
 	},
 	{
 		"abr": "indiantelephantmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_IndianElephant"
 	},
@@ -2840,7 +2840,7 @@
 	},
 	{
 		"abr": "infinitechemreactor",
-		"price": 2500,
+		"price": 1500,
 		"category": "Special",
 		"defname": "InfiniteChemreactor"
 	},
@@ -2858,19 +2858,19 @@
 	},
 	{
 		"abr": "intravenousdripstand",
-		"price": 296,
+		"price": 200,
 		"category": "Misc",
 		"defname": "Facility_IVDrip"
 	},
 	{
 		"abr": "jacket",
-		"price": 275,
+		"price": 200,
 		"category": "Apparel",
 		"defname": "Apparel_Jacket"
 	},
 	{
 		"abr": "jade",
-		"price": 8,
+		"price": 5,
 		"category": "Raw resources",
 		"defname": "Jade"
 	},
@@ -2882,13 +2882,13 @@
 	},
 	{
 		"abr": "jaguar",
-		"price": 667,
+		"price": 600,
 		"category": "Animal",
 		"defname": "AEXP_Jaguar"
 	},
 	{
 		"abr": "jaguarmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Jaguar"
 	},
@@ -2900,7 +2900,7 @@
 	},
 	{
 		"abr": "jaw",
-		"price": 833,
+		"price": 300,
 		"category": "Natural",
 		"defname": "Jaw"
 	},
@@ -2912,19 +2912,19 @@
 	},
 	{
 		"abr": "joywire",
-		"price": 7500,
+		"price": 2500,
 		"category": "Brain implants",
 		"defname": "Joywire"
 	},
 	{
 		"abr": "kibble",
-		"price": 2,
+		"price": 1,
 		"category": "Animal Feed",
 		"defname": "Kibble"
 	},
 	{
 		"abr": "kidney",
-		"price": 1667,
+		"price": 500,
 		"category": "Natural",
 		"defname": "Kidney"
 	},
@@ -2942,19 +2942,19 @@
 	},
 	{
 		"abr": "kpvmachinegun",
-		"price": 1383,
+		"price": 500,
 		"category": "Security",
 		"defname": "Turret_KPV"
 	},
 	{
 		"abr": "labradorretriever",
-		"price": 417,
+		"price": 250,
 		"category": "Animal",
 		"defname": "LabradorRetriever"
 	},
 	{
 		"abr": "labradorretrievermeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_LabradorRetriever"
 	},
@@ -2966,13 +2966,13 @@
 	},
 	{
 		"abr": "largesculpture",
-		"price": 517,
+		"price": 500,
 		"category": "Art",
 		"defname": "SculptureLarge"
 	},
 	{
 		"abr": "lavishmeal",
-		"price": 67,
+		"price": 35,
 		"category": "Meals",
 		"defname": "MealLavish"
 	},
@@ -2984,31 +2984,31 @@
 	},
 	{
 		"abr": "leg",
-		"price": 2167,
+		"price": 600,
 		"category": "Natural",
 		"defname": "Leg"
 	},
 	{
 		"abr": "lemur",
-		"price": 250,
+		"price": 150,
 		"category": "Animal",
 		"defname": "AEXP_Lemur"
 	},
 	{
 		"abr": "lifesupportsystem",
-		"price": 925,
+		"price": 350,
 		"category": "Misc",
 		"defname": "QE_LifeSupportSystem"
 	},
 	{
 		"abr": "lightplatearmor",
-		"price": 542,
+		"price": 400,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_LightPlateArmor"
 	},
 	{
 		"abr": "lightpowerarmor",
-		"price": 2417,
+		"price": 2000,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_LightMarineArmor"
 	},
@@ -3020,7 +3020,7 @@
 	},
 	{
 		"abr": "lightreceptor",
-		"price": 792,
+		"price": 200,
 		"category": "Simple prostheses",
 		"defname": "LightReceptor"
 	},
@@ -3032,25 +3032,25 @@
 	},
 	{
 		"abr": "limestoneblocks",
-		"price": 2,
+		"price": 1,
 		"category": "Stone blocks",
 		"defname": "BlocksLimestone"
 	},
 	{
 		"abr": "linencloth",
-		"price": 7,
+		"price": 3,
 		"category": "Textiles",
 		"defname": "Flaxcloth"
 	},
 	{
 		"abr": "lion",
-		"price": 2000,
+		"price": 800,
 		"category": "Animal",
 		"defname": "AEXP_Lion"
 	},
 	{
 		"abr": "lionmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Lion"
 	},
@@ -3062,13 +3062,13 @@
 	},
 	{
 		"abr": "liver",
-		"price": 3333,
+		"price": 800,
 		"category": "Natural",
 		"defname": "Liver"
 	},
 	{
 		"abr": "lizardskin",
-		"price": 3,
+		"price": 2,
 		"category": "Leathers",
 		"defname": "Leather_Lizard"
 	},
@@ -3104,31 +3104,31 @@
 	},
 	{
 		"abr": "lung",
-		"price": 2500,
+		"price": 500,
 		"category": "Natural",
 		"defname": "Lung"
 	},
 	{
 		"abr": "lynx",
-		"price": 417,
+		"price": 350,
 		"category": "Animal",
 		"defname": "Lynx"
 	},
 	{
 		"abr": "lynxmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Lynx"
 	},
 	{
 		"abr": "m14",
-		"price": 408,
+		"price": 400,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_SemiAutomaticRifle"
 	},
 	{
 		"abr": "m16a4",
-		"price": 642,
+		"price": 500,
 		"category": "Ranged weapons",
 		"defname": "Gun_AssaultRifle"
 	},
@@ -3146,19 +3146,19 @@
 	},
 	{
 		"abr": "m24",
-		"price": 692,
+		"price": 600,
 		"category": "Ranged weapons",
 		"defname": "Gun_SniperRifle"
 	},
 	{
 		"abr": "m240b",
-		"price": 800,
+		"price": 350,
 		"category": "Security",
 		"defname": "Turret_M240B"
 	},
 	{
 		"abr": "mac-10",
-		"price": 508,
+		"price": 250,
 		"category": "Ranged weapons",
 		"defname": "Gun_MachinePistol"
 	},
@@ -3182,115 +3182,115 @@
 	},
 	{
 		"abr": "mainecoon",
-		"price": 1250,
+		"price": 150,
 		"category": "Animal",
 		"defname": "AEXP_CatMaineCoon"
 	},
 	{
 		"abr": "mainecoonmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_CatMaineCoon"
 	},
 	{
 		"abr": "maleroyalthrumbohorn",
-		"price": 2667,
+		"price": 2000,
 		"category": "Items",
 		"defname": "OG_ThrumboRoyalHornM"
 	},
 	{
 		"abr": "mandrill",
-		"price": 458,
+		"price": 500,
 		"category": "Animal",
 		"defname": "AEXP_Mandrill"
 	},
 	{
 		"abr": "marbleblocks",
-		"price": 2,
+		"price": 1,
 		"category": "Stone blocks",
 		"defname": "BlocksMarble"
 	},
 	{
 		"abr": "medicalribreplacement",
-		"price": 1250,
+		"price": 1200,
 		"category": "Bionics",
 		"defname": "MedicalRib"
 	},
 	{
 		"abr": "medicine",
-		"price": 30,
+		"price": 20,
 		"category": "Medicine",
 		"defname": "MedicineIndustrial"
 	},
 	{
 		"abr": "megascarab",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Megascarab"
 	},
 	{
 		"abr": "megascorpion",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AEXP_Megascorpion"
 	},
 	{
 		"abr": "megascreentelevision",
-		"price": 2475,
+		"price": 2000,
 		"category": "Recreation",
 		"defname": "MegascreenTelevision"
 	},
 	{
 		"abr": "megasloth",
-		"price": 1167,
+		"price": 400,
 		"category": "Animal",
 		"defname": "Megasloth"
 	},
 	{
 		"abr": "megaslothmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Megasloth"
 	},
 	{
 		"abr": "megaslothwool",
-		"price": 4,
+		"price": 1,
 		"category": "Textiles",
 		"defname": "WoolMegasloth"
 	},
 	{
 		"abr": "megaspider",
-		"price": 833,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Megaspider"
 	},
 	{
 		"abr": "megawolverine",
-		"price": 1417,
+		"price": 500,
 		"category": "Animal",
 		"defname": "AEXP_MegaWolverine"
 	},
 	{
 		"abr": "megawolverinemeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_MegaWolverine"
 	},
 	{
 		"abr": "meleeshield",
-		"price": 257,
+		"price": 200,
 		"category": "Shields",
 		"defname": "Apparel_MeleeShield"
 	},
 	{
 		"abr": "milk",
-		"price": 5,
+		"price": 2,
 		"category": "Animal products",
 		"defname": "Milk"
 	},
 	{
 		"abr": "mini-turret",
-		"price": 508,
+		"price": 500,
 		"category": "Security",
 		"defname": "Turret_MiniTurret"
 	},
@@ -3314,91 +3314,91 @@
 	},
 	{
 		"abr": "monkey",
-		"price": 167,
+		"price": 150,
 		"category": "Animal",
 		"defname": "Monkey"
 	},
 	{
 		"abr": "monkeymeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Monkey"
 	},
 	{
 		"abr": "moose",
-		"price": 750,
+		"price": 350,
 		"category": "Animal",
 		"defname": "AEXP_Moose"
 	},
 	{
 		"abr": "moosemeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Moose"
 	},
 	{
 		"abr": "mossberg500",
-		"price": 273,
+		"price": 250,
 		"category": "Ranged weapons",
 		"defname": "Gun_PumpShotgun"
 	},
 	{
 		"abr": "mp5c",
-		"price": 558,
+		"price": 200,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_SMG"
 	},
 	{
 		"abr": "muffalo",
-		"price": 500,
+		"price": 400,
 		"category": "Animal",
 		"defname": "Muffalo"
 	},
 	{
 		"abr": "muffalomeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Muffalo"
 	},
 	{
 		"abr": "muffalowool",
-		"price": 4,
+		"price": 2,
 		"category": "Textiles",
 		"defname": "WoolMuffalo"
 	},
 	{
 		"abr": "multi-analyzer",
-		"price": 1700,
+		"price": 1200,
 		"category": "Misc",
 		"defname": "MultiAnalyzer"
 	},
 	{
 		"abr": "munchkincat",
-		"price": 333,
+		"price": 150,
 		"category": "Animal",
 		"defname": "AEXP_CatMunchkin"
 	},
 	{
 		"abr": "munchkincatmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_CatMunchkin"
 	},
 	{
 		"abr": "musclestimulator",
-		"price": 5833,
+		"price": 2000,
 		"category": "Synthetic organs",
 		"defname": "MuscleStimulator"
 	},
 	{
 		"abr": "muskox",
-		"price": 475,
+		"price": 400,
 		"category": "Animal",
 		"defname": "AEXP_Muskox"
 	},
 	{
 		"abr": "muskoxmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Muskox"
 	},
@@ -3428,43 +3428,43 @@
 	},
 	{
 		"abr": "neutroamine",
-		"price": 10,
+		"price": 3,
 		"category": "Manufactured",
 		"defname": "Neutroamine"
 	},
 	{
 		"abr": "nightvisiongoggles",
-		"price": 458,
+		"price": 300,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_NightVisionGoggles"
 	},
 	{
 		"abr": "norwegianforestcat",
-		"price": 333,
+		"price": 150,
 		"category": "Animal",
 		"defname": "AEXP_CatNorwegianForest"
 	},
 	{
 		"abr": "norwegianforestcatmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_CatNorwegianForest"
 	},
 	{
 		"abr": "nose",
-		"price": 833,
+		"price": 300,
 		"category": "Natural",
 		"defname": "Nose"
 	},
 	{
 		"abr": "nutrientpastemeal",
-		"price": 17,
+		"price": 5,
 		"category": "Meals",
 		"defname": "MealNutrientPaste"
 	},
 	{
 		"abr": "oldcomputer",
-		"price": 517,
+		"price": 500,
 		"category": "Recreation",
 		"defname": "Joy_InudstrialComputer"
 	},
@@ -3476,7 +3476,7 @@
 	},
 	{
 		"abr": "orbitalbombardmentgrenade",
-		"price": 167,
+		"price": 300,
 		"category": "Grenades",
 		"defname": "VWE_OPOrbBombGrenade"
 	},
@@ -3494,13 +3494,13 @@
 	},
 	{
 		"abr": "orbitaltradebeacon",
-		"price": 185,
+		"price": 100,
 		"category": "Misc",
 		"defname": "OrbitalTradeBeacon"
 	},
 	{
 		"abr": "ostrich",
-		"price": 417,
+		"price": 200,
 		"category": "Animal",
 		"defname": "Ostrich"
 	},
@@ -3512,13 +3512,13 @@
 	},
 	{
 		"abr": "otter",
-		"price": 283,
+		"price": 150,
 		"category": "Animal",
 		"defname": "AEXP_Otter"
 	},
 	{
 		"abr": "ottermeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Otter"
 	},
@@ -3530,31 +3530,31 @@
 	},
 	{
 		"abr": "packagedsurvivalmeal",
-		"price": 40,
+		"price": 25,
 		"category": "Meals",
 		"defname": "MealSurvivalPack"
 	},
 	{
 		"abr": "painkillerribreplacement",
-		"price": 1333,
+		"price": 1200,
 		"category": "Bionics",
 		"defname": "PainkillerRib"
 	},
 	{
 		"abr": "painstopper",
-		"price": 7500,
+		"price": 2500,
 		"category": "Brain implants",
 		"defname": "Painstopper"
 	},
 	{
 		"abr": "panther",
-		"price": 667,
+		"price": 600,
 		"category": "Animal",
 		"defname": "Panther"
 	},
 	{
 		"abr": "panthermeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Panther"
 	},
@@ -3584,13 +3584,13 @@
 	},
 	{
 		"abr": "pegleg",
-		"price": 167,
+		"price": 150,
 		"category": "Basic prostheses",
 		"defname": "PegLeg"
 	},
 	{
 		"abr": "pemmican",
-		"price": 2,
+		"price": 1,
 		"category": "Foods",
 		"defname": "Pemmican"
 	},
@@ -3608,19 +3608,19 @@
 	},
 	{
 		"abr": "penoxycyline",
-		"price": 30,
+		"price": 5,
 		"category": "Medicine",
 		"defname": "Penoxycyline"
 	},
 	{
 		"abr": "persiancat",
-		"price": 333,
+		"price": 150,
 		"category": "Animal",
 		"defname": "AEXP_CatPersian"
 	},
 	{
 		"abr": "persiancatmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_CatPersian"
 	},
@@ -3638,7 +3638,7 @@
 	},
 	{
 		"abr": "pig",
-		"price": 333,
+		"price": 200,
 		"category": "Animal",
 		"defname": "Pig"
 	},
@@ -3656,13 +3656,13 @@
 	},
 	{
 		"abr": "pinnipedmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Seal"
 	},
 	{
 		"abr": "plainleather",
-		"price": 3,
+		"price": 2,
 		"category": "Leathers",
 		"defname": "Leather_Plain"
 	},
@@ -3674,25 +3674,25 @@
 	},
 	{
 		"abr": "plasteel",
-		"price": 15,
+		"price": 5,
 		"category": "Raw resources",
 		"defname": "Plasteel"
 	},
 	{
 		"abr": "plasteelbulbchunks",
-		"price": 6,
+		"price": 3,
 		"category": "Resource plants",
 		"defname": "RawPlasteelLeaf"
 	},
 	{
 		"abr": "plasteelthread",
-		"price": 3,
+		"price": 1,
 		"category": "Raw textiles",
 		"defname": "VG_PlasteelThread"
 	},
 	{
 		"abr": "platearmor",
-		"price": 792,
+		"price": 500,
 		"category": "Apparel",
 		"defname": "Apparel_PlateArmor"
 	},
@@ -3710,7 +3710,7 @@
 	},
 	{
 		"abr": "platehelmet",
-		"price": 207,
+		"price": 200,
 		"category": "Headgear",
 		"defname": "VAE_Apparel_PlateHelmet"
 	},
@@ -3728,19 +3728,19 @@
 	},
 	{
 		"abr": "polarbear",
-		"price": 1167,
+		"price": 600,
 		"category": "Animal",
 		"defname": "Bear_Polar"
 	},
 	{
 		"abr": "poodle",
-		"price": 417,
+		"price": 200,
 		"category": "Animal",
 		"defname": "AEXP_Poodle"
 	},
 	{
 		"abr": "poodlemeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Poodle"
 	},
@@ -3752,61 +3752,61 @@
 	},
 	{
 		"abr": "porcupinemeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Porcupine"
 	},
 	{
 		"abr": "pork",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Pig"
 	},
 	{
 		"abr": "potatoes",
-		"price": 2,
+		"price": 1,
 		"category": "Vegetarian",
 		"defname": "RawPotatoes"
 	},
 	{
 		"abr": "powerarm",
-		"price": 12500,
+		"price": 3500,
 		"category": "Bionics",
 		"defname": "PowerArm"
 	},
 	{
 		"abr": "powerarmor",
-		"price": 3850,
+		"price": 2500,
 		"category": "Apparel",
 		"defname": "Apparel_PowerArmor"
 	},
 	{
 		"abr": "powerarmorboots",
-		"price": 825,
+		"price": 500,
 		"category": "Handwear and footwear",
 		"defname": "VAE_Footwear_MarineBoots"
 	},
 	{
 		"abr": "powerarmorgloves",
-		"price": 750,
+		"price": 500,
 		"category": "Handwear and footwear",
 		"defname": "VAE_Handwear_MarineGloves"
 	},
 	{
 		"abr": "powerarmorhelmet",
-		"price": 1317,
+		"price": 1200,
 		"category": "Headgear",
 		"defname": "Apparel_PowerArmorHelmet"
 	},
 	{
 		"abr": "powerclaw",
-		"price": 6250,
+		"price": 2500,
 		"category": "Bionics",
 		"defname": "PowerClaw"
 	},
 	{
 		"abr": "primatemeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Gorilla"
 	},
@@ -3818,13 +3818,13 @@
 	},
 	{
 		"abr": "psychicanimalpulser",
-		"price": 1167,
+		"price": 1000,
 		"category": "Artifacts",
 		"defname": "PsychicAnimalPulser"
 	},
 	{
 		"abr": "psychicemanator",
-		"price": 2167,
+		"price": 1200,
 		"category": "Special",
 		"defname": "PsychicEmanator"
 	},
@@ -3836,13 +3836,13 @@
 	},
 	{
 		"abr": "psychicinsanitylance",
-		"price": 1083,
+		"price": 1000,
 		"category": "Artifacts",
 		"defname": "PsychicInsanityLance"
 	},
 	{
 		"abr": "psychicshocklance",
-		"price": 917,
+		"price": 1000,
 		"category": "Artifacts",
 		"defname": "PsychicShockLance"
 	},
@@ -3866,13 +3866,13 @@
 	},
 	{
 		"abr": "pug",
-		"price": 500,
+		"price": 150,
 		"category": "Animal",
 		"defname": "AEXP_Pug"
 	},
 	{
 		"abr": "pugmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Pug"
 	},
@@ -3890,37 +3890,37 @@
 	},
 	{
 		"abr": "r-15chargerifle",
-		"price": 1375,
+		"price": 1300,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeRifle"
 	},
 	{
 		"abr": "raccoon",
-		"price": 167,
+		"price": 150,
 		"category": "Animal",
 		"defname": "Raccoon"
 	},
 	{
 		"abr": "raccoonmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Raccoon"
 	},
 	{
 		"abr": "rat",
-		"price": 58,
+		"price": 100,
 		"category": "Animal",
 		"defname": "Rat"
 	},
 	{
 		"abr": "ratmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Rat"
 	},
 	{
 		"abr": "rattlesnake",
-		"price": 333,
+		"price": 300,
 		"category": "Animal",
 		"defname": "AEXP_Rattlesnake"
 	},
@@ -3938,25 +3938,25 @@
 	},
 	{
 		"abr": "rawdevilstrand",
-		"price": 5,
+		"price": 2,
 		"category": "Raw textiles",
 		"defname": "RawDevilstrand"
 	},
 	{
 		"abr": "rawfish",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "AEXP_RawFish"
 	},
 	{
 		"abr": "rawflax",
-		"price": 4,
+		"price": 1,
 		"category": "Raw textiles",
 		"defname": "RawFlax"
 	},
 	{
 		"abr": "rawfungus",
-		"price": 2,
+		"price": 1,
 		"category": "Vegetarian",
 		"defname": "RawFungus"
 	},
@@ -3968,19 +3968,19 @@
 	},
 	{
 		"abr": "redfox",
-		"price": 333,
+		"price": 300,
 		"category": "Animal",
 		"defname": "Fox_Red"
 	},
 	{
 		"abr": "resurrectormechserum",
-		"price": 2833,
+		"price": 2000,
 		"category": "Items",
 		"defname": "MechSerumResurrector"
 	},
 	{
 		"abr": "rhinoceros",
-		"price": 1167,
+		"price": 700,
 		"category": "Animal",
 		"defname": "Rhinoceros"
 	},
@@ -3992,13 +3992,13 @@
 	},
 	{
 		"abr": "rhinocerosmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Rhinoceros"
 	},
 	{
 		"abr": "rice",
-		"price": 2,
+		"price": 1,
 		"category": "Vegetarian",
 		"defname": "RawRice"
 	},
@@ -4010,103 +4010,103 @@
 	},
 	{
 		"abr": "rocketlauncher",
-		"price": 1667,
+		"price": 1800,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_RocketLauncher"
 	},
 	{
 		"abr": "rottweiler",
-		"price": 417,
+		"price": 250,
 		"category": "Animal",
 		"defname": "AEXP_Rottweiler"
 	},
 	{
 		"abr": "rottweilermeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Rottweiler"
 	},
 	{
 		"abr": "roulettetable",
-		"price": 708,
+		"price": 350,
 		"category": "Furniture",
 		"defname": "Joy_RouletteTable"
 	},
 	{
 		"abr": "royalarmchair",
-		"price": 1583,
+		"price": 600,
 		"category": "Furniture",
 		"defname": "Seat_RoyalArmchair"
 	},
 	{
 		"abr": "royalbed",
-		"price": 1467,
+		"price": 600,
 		"category": "Furniture",
 		"defname": "RoyalBed"
 	},
 	{
 		"abr": "royalchair",
-		"price": 908,
+		"price": 600,
 		"category": "Furniture",
 		"defname": "Seat_RoyalChair"
 	},
 	{
 		"abr": "royaldresser",
-		"price": 1175,
+		"price": 600,
 		"category": "Furniture",
 		"defname": "Table_RoyalDresser"
 	},
 	{
 		"abr": "royalendtable",
-		"price": 742,
+		"price": 600,
 		"category": "Furniture",
 		"defname": "Table_RoyalEndTable"
 	},
 	{
 		"abr": "royalposterbed",
-		"price": 2008,
+		"price": 650,
 		"category": "Furniture",
 		"defname": "Bed_Kingsize"
 	},
 	{
 		"abr": "royaltable(1x1)",
-		"price": 280,
+		"price": 600,
 		"category": "Furniture",
 		"defname": "Table_Royal1x1c"
 	},
 	{
 		"abr": "royaltable(1x2)",
-		"price": 542,
+		"price": 600,
 		"category": "Furniture",
 		"defname": "Table_Royal1x2c"
 	},
 	{
 		"abr": "royaltable(2x2)",
-		"price": 1092,
+		"price": 700,
 		"category": "Furniture",
 		"defname": "Table_Royal2x2c"
 	},
 	{
 		"abr": "royaltable(2x4)",
-		"price": 1475,
+		"price": 800,
 		"category": "Furniture",
 		"defname": "Table_Royal2x4c"
 	},
 	{
 		"abr": "royaltable(3x3)",
-		"price": 1617,
+		"price": 1000,
 		"category": "Furniture",
 		"defname": "Table_Royal3x3c"
 	},
 	{
 		"abr": "royalthrumbo",
-		"price": 13333,
+		"price": 2000,
 		"category": "Animal",
 		"defname": "OG_ThrumboRoyalM"
 	},
 	{
 		"abr": "royalthrumbomeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_OG_ThrumboRoyalM"
 	},
@@ -4118,31 +4118,31 @@
 	},
 	{
 		"abr": "royalthrumbowool",
-		"price": 30,
+		"price": 12,
 		"category": "Textiles",
 		"defname": "OG_ThrumboRoyalWool"
 	},
 	{
 		"abr": "royalthrumbofur",
-		"price": 23,
+		"price": 15,
 		"category": "Leathers",
 		"defname": "OG_ThrumboRoyalLeather"
 	},
 	{
 		"abr": "rpg-7grenade(frag)",
-		"price": 58,
+		"price": 60,
 		"category": "RPG-7 grenades",
 		"defname": "Ammo_RPG7Grenade_Frag"
 	},
 	{
 		"abr": "rpg-7grenade(heat)",
-		"price": 96,
+		"price": 60,
 		"category": "RPG-7 grenades",
 		"defname": "Ammo_RPG7Grenade_HEAT"
 	},
 	{
 		"abr": "rpg-7grenade(thermobaric)",
-		"price": 206,
+		"price": 150,
 		"category": "RPG-7 grenades",
 		"defname": "Ammo_RPG7Grenade_Thermobaric"
 	},
@@ -4154,13 +4154,13 @@
 	},
 	{
 		"abr": "saiga12k",
-		"price": 458,
+		"price": 450,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChainShotgun"
 	},
 	{
 		"abr": "sandstoneblocks",
-		"price": 2,
+		"price": 1,
 		"category": "Stone blocks",
 		"defname": "BlocksSandstone"
 	},
@@ -4178,7 +4178,7 @@
 	},
 	{
 		"abr": "scar-h",
-		"price": 775,
+		"price": 700,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_BattleRifle"
 	},
@@ -4196,25 +4196,25 @@
 	},
 	{
 		"abr": "seal",
-		"price": 333,
+		"price": 250,
 		"category": "Animal",
 		"defname": "AEXP_Seal"
 	},
 	{
 		"abr": "sheep",
-		"price": 583,
+		"price": 150,
 		"category": "Animal",
 		"defname": "AEXP_Sheep"
 	},
 	{
 		"abr": "sheepmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Sheep"
 	},
 	{
 		"abr": "sheepwool",
-		"price": 4,
+		"price": 2,
 		"category": "Textiles",
 		"defname": "AEXP_WoolSheep"
 	},
@@ -4238,13 +4238,13 @@
 	},
 	{
 		"abr": "shih-tzu",
-		"price": 500,
+		"price": 150,
 		"category": "Animal",
 		"defname": "AEXP_Shih-Tzu"
 	},
 	{
 		"abr": "shih-tzumeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Shih-Tzu"
 	},
@@ -4262,13 +4262,13 @@
 	},
 	{
 		"abr": "siamesecat",
-		"price": 333,
+		"price": 150,
 		"category": "Animal",
 		"defname": "AEXP_CatSiamese"
 	},
 	{
 		"abr": "siamesecatmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_CatSiamese"
 	},
@@ -4286,31 +4286,31 @@
 	},
 	{
 		"abr": "silverflowerpetals",
-		"price": 1,
+		"price": 3,
 		"category": "Resource plants",
 		"defname": "RawSilverLeaf"
 	},
 	{
 		"abr": "simpleanimalearimplant",
-		"price": 121,
+		"price": 100,
 		"category": "Animal Body Part",
 		"defname": "EarAnimalSimple"
 	},
 	{
 		"abr": "simpleanimaljawimplant",
-		"price": 121,
+		"price": 100,
 		"category": "Animal Body Part",
 		"defname": "JawAnimalSimple"
 	},
 	{
 		"abr": "simpleanimalnose",
-		"price": 121,
+		"price": 100,
 		"category": "Animal Body Part",
 		"defname": "NoseAnimalSimple"
 	},
 	{
 		"abr": "simpleanimalspine",
-		"price": 202,
+		"price": 200,
 		"category": "Animal Body Part",
 		"defname": "SpineAnimalSimple"
 	},
@@ -4322,55 +4322,55 @@
 	},
 	{
 		"abr": "simplehelmet",
-		"price": 186,
+		"price": 180,
 		"category": "Headgear",
 		"defname": "Apparel_SimpleHelmet"
 	},
 	{
 		"abr": "simplemeal",
-		"price": 25,
+		"price": 8,
 		"category": "Meals",
 		"defname": "MealSimple"
 	},
 	{
 		"abr": "simpleprostheticanimalarm",
-		"price": 218,
+		"price": 200,
 		"category": "Animal Body Part",
 		"defname": "SimpleProstheticArmAnimal"
 	},
 	{
 		"abr": "simpleprostheticanimalleg",
-		"price": 218,
+		"price": 200,
 		"category": "Animal Body Part",
 		"defname": "SimpleProstheticLegAnimal"
 	},
 	{
 		"abr": "simpleprostheticanimaltail",
-		"price": 112,
+		"price": 100,
 		"category": "Animal Body Part",
 		"defname": "ProstheticTailAnimal"
 	},
 	{
 		"abr": "simpleprostheticarm",
-		"price": 1167,
+		"price": 350,
 		"category": "Simple prostheses",
 		"defname": "SimpleProstheticArm"
 	},
 	{
 		"abr": "simpleprostheticfoot",
-		"price": 667,
+		"price": 200,
 		"category": "Simple prostheses",
 		"defname": "SimpleProstheticFoot"
 	},
 	{
 		"abr": "simpleprosthetichand",
-		"price": 750,
+		"price": 200,
 		"category": "Simple prostheses",
 		"defname": "SimpleProstheticHand"
 	},
 	{
 		"abr": "simpleprostheticleg",
-		"price": 1167,
+		"price": 350,
 		"category": "Simple prostheses",
 		"defname": "SimpleProstheticLeg"
 	},
@@ -4400,7 +4400,7 @@
 	},
 	{
 		"abr": "slateblocks",
-		"price": 2,
+		"price": 1,
 		"category": "Stone blocks",
 		"defname": "BlocksSlate"
 	},
@@ -4412,7 +4412,7 @@
 	},
 	{
 		"abr": "smallsculpture",
-		"price": 275,
+		"price": 250,
 		"category": "Art",
 		"defname": "SculptureSmall"
 	},
@@ -4430,19 +4430,19 @@
 	},
 	{
 		"abr": "smokegrenades",
-		"price": 4,
+		"price": 25,
 		"category": "Grenades",
 		"defname": "VWE_SmokeGrenade"
 	},
 	{
 		"abr": "smokeleafjoint",
-		"price": 18,
+		"price": 10,
 		"category": "Drugs",
 		"defname": "SmokeleafJoint"
 	},
 	{
 		"abr": "smokeleafleaves",
-		"price": 3,
+		"price": 2,
 		"category": "Plant matter",
 		"defname": "SmokeleafLeaves"
 	},
@@ -4454,7 +4454,7 @@
 	},
 	{
 		"abr": "snowhare",
-		"price": 83,
+		"price": 75,
 		"category": "Animal",
 		"defname": "Snowhare"
 	},
@@ -4466,13 +4466,13 @@
 	},
 	{
 		"abr": "somalicat",
-		"price": 333,
+		"price": 150,
 		"category": "Animal",
 		"defname": "AEXP_CatSomali"
 	},
 	{
 		"abr": "somalicatmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_CatSomali"
 	},
@@ -4484,43 +4484,43 @@
 	},
 	{
 		"abr": "spelopede",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Spelopede"
 	},
 	{
 		"abr": "sphynxcat",
-		"price": 333,
+		"price": 150,
 		"category": "Animal",
 		"defname": "AEXP_CatSphynx"
 	},
 	{
 		"abr": "sphynxcatmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_CatSphynx"
 	},
 	{
 		"abr": "spiketrap",
-		"price": 136,
+		"price": 75,
 		"category": "Security",
 		"defname": "TrapSpike"
 	},
 	{
 		"abr": "squarechair",
-		"price": 198,
+		"price": 100,
 		"category": "Furniture",
 		"defname": "Seat_SquareChair"
 	},
 	{
 		"abr": "squirrel",
-		"price": 58,
+		"price": 20,
 		"category": "Animal",
 		"defname": "Squirrel"
 	},
 	{
 		"abr": "squirrelmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Squirrel"
 	},
@@ -4550,13 +4550,13 @@
 	},
 	{
 		"abr": "steel",
-		"price": 3,
+		"price": 1,
 		"category": "Raw resources",
 		"defname": "Steel"
 	},
 	{
 		"abr": "steelarm",
-		"price": 333,
+		"price": 250,
 		"category": "Basic prostheses",
 		"defname": "SteelArm"
 	},
@@ -4574,7 +4574,7 @@
 	},
 	{
 		"abr": "stomach",
-		"price": 1667,
+		"price": 800,
 		"category": "Natural",
 		"defname": "Stomach"
 	},
@@ -4598,73 +4598,73 @@
 	},
 	{
 		"abr": "sunlamp",
-		"price": 129,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SunLamp"
 	},
 	{
 		"abr": "surrogateheart",
-		"price": 1417,
+		"price": 1200,
 		"category": "Surrogate organs",
 		"defname": "SurrogateHeart"
 	},
 	{
 		"abr": "surrogatekidney",
-		"price": 1250,
+		"price": 1200,
 		"category": "Surrogate organs",
 		"defname": "SurrogateKidney"
 	},
 	{
 		"abr": "surrogateliver",
-		"price": 1250,
+		"price": 1200,
 		"category": "Surrogate organs",
 		"defname": "SurrogateLiver"
 	},
 	{
 		"abr": "surrogatelung",
-		"price": 1250,
+		"price": 1200,
 		"category": "Surrogate organs",
 		"defname": "SurrogateLung"
 	},
 	{
 		"abr": "surrogatestomach",
-		"price": 1250,
+		"price": 1200,
 		"category": "Surrogate organs",
 		"defname": "SurrogateStomach"
 	},
 	{
 		"abr": "syntheticheart",
-		"price": 3333,
+		"price": 1750,
 		"category": "Synthetic organs",
 		"defname": "SyntheticHeart"
 	},
 	{
 		"abr": "synthetickidney",
-		"price": 2917,
+		"price": 1750,
 		"category": "Synthetic organs",
 		"defname": "SyntheticKidney"
 	},
 	{
 		"abr": "syntheticliver",
-		"price": 2917,
+		"price": 1750,
 		"category": "Synthetic organs",
 		"defname": "SyntheticLiver"
 	},
 	{
 		"abr": "syntheticlung",
-		"price": 2917,
+		"price": 1750,
 		"category": "Synthetic organs",
 		"defname": "SyntheticLung"
 	},
 	{
 		"abr": "syntheticstomach",
-		"price": 2917,
+		"price": 1750,
 		"category": "Synthetic organs",
 		"defname": "SyntheticStomach"
 	},
 	{
 		"abr": "synthread",
-		"price": 7,
+		"price": 3,
 		"category": "Textiles",
 		"defname": "Synthread"
 	},
@@ -4706,13 +4706,13 @@
 	},
 	{
 		"abr": "tacticalcorneaimplant",
-		"price": 5833,
+		"price": 1000,
 		"category": "Synthetic organs",
 		"defname": "TacticalCorneaImplant"
 	},
 	{
 		"abr": "tacticalvest",
-		"price": 198,
+		"price": 150,
 		"category": "Loadbearing gear",
 		"defname": "Apparel_TacVest"
 	},
@@ -4730,19 +4730,19 @@
 	},
 	{
 		"abr": "tapir",
-		"price": 458,
+		"price": 300,
 		"category": "Animal",
 		"defname": "AEXP_Tapir"
 	},
 	{
 		"abr": "techprofsubpersonacore",
-		"price": 1667,
+		"price": 1250,
 		"category": "Items",
 		"defname": "TechprofSubpersonaCore"
 	},
 	{
 		"abr": "telescope",
-		"price": 583,
+		"price": 200,
 		"category": "Recreation",
 		"defname": "Telescope"
 	},
@@ -4754,25 +4754,25 @@
 	},
 	{
 		"abr": "thrumbo",
-		"price": 6667,
+		"price": 1500,
 		"category": "Animal",
 		"defname": "Thrumbo"
 	},
 	{
 		"abr": "thrumbohorn",
-		"price": 1333,
+		"price": 1000,
 		"category": "Items",
 		"defname": "ThrumboHorn"
 	},
 	{
 		"abr": "thrumbomeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Thrumbo"
 	},
 	{
 		"abr": "thrumbomilk",
-		"price": 333,
+		"price": 85,
 		"category": "Drugs",
 		"defname": "ThrumboMilk"
 	},
@@ -4784,13 +4784,13 @@
 	},
 	{
 		"abr": "thrumbofur",
-		"price": 23,
+		"price": 15,
 		"category": "Leathers",
 		"defname": "Leather_Thrumbo"
 	},
 	{
 		"abr": "tiger",
-		"price": 1083,
+		"price": 700,
 		"category": "Animal",
 		"defname": "AEXP_Tiger"
 	},
@@ -4802,13 +4802,13 @@
 	},
 	{
 		"abr": "tigermeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Tiger"
 	},
 	{
 		"abr": "timberwolf",
-		"price": 583,
+		"price": 500,
 		"category": "Animal",
 		"defname": "Wolf_Timber"
 	},
@@ -4826,13 +4826,13 @@
 	},
 	{
 		"abr": "tornadogenerator",
-		"price": 1333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "TornadoGenerator"
 	},
 	{
 		"abr": "tortoise",
-		"price": 333,
+		"price": 200,
 		"category": "Animal",
 		"defname": "Tortoise"
 	},
@@ -4844,13 +4844,13 @@
 	},
 	{
 		"abr": "tortoisemeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Tortoise"
 	},
 	{
 		"abr": "toxicgrenades",
-		"price": 4,
+		"price": 30,
 		"category": "Grenades",
 		"defname": "VWE_ToxicGrenade"
 	},
@@ -4862,7 +4862,7 @@
 	},
 	{
 		"abr": "tribalheaddress",
-		"price": 203,
+		"price": 100,
 		"category": "Headgear",
 		"defname": "Apparel_TribalHeaddress"
 	},
@@ -4874,7 +4874,7 @@
 	},
 	{
 		"abr": "triplerocketlauncher",
-		"price": 967,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_TripleRocket"
 	},
@@ -4886,7 +4886,7 @@
 	},
 	{
 		"abr": "tubetelevision",
-		"price": 525,
+		"price": 500,
 		"category": "Recreation",
 		"defname": "TubeTelevision"
 	},
@@ -4898,7 +4898,7 @@
 	},
 	{
 		"abr": "turkey",
-		"price": 167,
+		"price": 150,
 		"category": "Animal",
 		"defname": "Turkey"
 	},
@@ -4910,13 +4910,13 @@
 	},
 	{
 		"abr": "turkeymeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Turkey"
 	},
 	{
 		"abr": "ump45",
-		"price": 550,
+		"price": 500,
 		"category": "Ranged weapons",
 		"defname": "Gun_HeavySMG"
 	},
@@ -4928,49 +4928,49 @@
 	},
 	{
 		"abr": "uraniumrootbulbs",
-		"price": 2,
+		"price": 1,
 		"category": "Resource plants",
 		"defname": "RawUraniumLeaf"
 	},
 	{
 		"abr": "uzi",
-		"price": 383,
+		"price": 250,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_LightSMG"
 	},
 	{
 		"abr": "vanometricpowercell",
-		"price": 2000,
+		"price": 800,
 		"category": "Special",
 		"defname": "VanometricPowerCell"
 	},
 	{
 		"abr": "venison",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Deer"
 	},
 	{
 		"abr": "vitalscentre",
-		"price": 1125,
+		"price": 750,
 		"category": "Misc",
 		"defname": "Facility_VitalsCentre"
 	},
 	{
 		"abr": "vitalsmonitor",
-		"price": 358,
+		"price": 200,
 		"category": "Misc",
 		"defname": "VitalsMonitor"
 	},
 	{
 		"abr": "wake-up",
-		"price": 58,
+		"price": 200,
 		"category": "Drugs",
 		"defname": "WakeUp"
 	},
 	{
 		"abr": "walrus",
-		"price": 917,
+		"price": 600,
 		"category": "Animal",
 		"defname": "AEXP_Walrus"
 	},
@@ -5000,13 +5000,13 @@
 	},
 	{
 		"abr": "warg",
-		"price": 750,
+		"price": 350,
 		"category": "Animal",
 		"defname": "Warg"
 	},
 	{
 		"abr": "wargmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Warg"
 	},
@@ -5018,13 +5018,13 @@
 	},
 	{
 		"abr": "welshterrier",
-		"price": 417,
+		"price": 150,
 		"category": "Animal",
 		"defname": "AEXP_WelshTerrier"
 	},
 	{
 		"abr": "welshterriermeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_AEXP_WelshTerrier"
 	},
@@ -5036,13 +5036,13 @@
 	},
 	{
 		"abr": "wildboar",
-		"price": 333,
+		"price": 200,
 		"category": "Animal",
 		"defname": "WildBoar"
 	},
 	{
 		"abr": "wildebeest",
-		"price": 567,
+		"price": 500,
 		"category": "Animal",
 		"defname": "AEXP_Wildebeest"
 	},
@@ -5054,13 +5054,13 @@
 	},
 	{
 		"abr": "winchester",
-		"price": 408,
+		"price": 400,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_LeverActionRifle"
 	},
 	{
 		"abr": "wolfmeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Wolf_Timber"
 	},
@@ -5072,7 +5072,7 @@
 	},
 	{
 		"abr": "wood",
-		"price": 2,
+		"price": 1,
 		"category": "Raw resources",
 		"defname": "WoodLog"
 	},
@@ -5084,7 +5084,7 @@
 	},
 	{
 		"abr": "woodenfoot",
-		"price": 42,
+		"price": 100,
 		"category": "Basic prostheses",
 		"defname": "WoodenFoot"
 	},
@@ -5102,7 +5102,7 @@
 	},
 	{
 		"abr": "yak",
-		"price": 667,
+		"price": 550,
 		"category": "Animal",
 		"defname": "AEXP_Yak"
 	},
@@ -5114,31 +5114,31 @@
 	},
 	{
 		"abr": "yayo",
-		"price": 35,
+		"price": 50,
 		"category": "Drugs",
 		"defname": "Yayo"
 	},
 	{
 		"abr": "yorkshireterrier",
-		"price": 167,
+		"price": 150,
 		"category": "Animal",
 		"defname": "YorkshireTerrier"
 	},
 	{
 		"abr": "yorkshireterriermeat",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_YorkshireTerrier"
 	},
 	{
 		"abr": "zebra",
-		"price": 1000,
+		"price": 400,
 		"category": "Animal",
 		"defname": "AEXP_Zebra"
 	},
 	{
 		"abr": "advancedmedicalstation",
-		"price": 3867,
+		"price": 2500,
 		"category": "Production",
 		"defname": "AdvancedMedicalStation"
 	},
@@ -5150,31 +5150,31 @@
 	},
 	{
 		"abr": "ammocrate",
-		"price": 533,
+		"price": 250,
 		"category": "Furniture",
 		"defname": "VFES_AmmoCrate"
 	},
 	{
 		"abr": "apples",
-		"price": 2,
+		"price": 1,
 		"category": "Fruits",
 		"defname": "Rawapple"
 	},
 	{
 		"abr": "archotechshieldgenerator",
-		"price": 4667,
+		"price": 2500,
 		"category": "Special",
 		"defname": "VFES_ShieldGenerator_Archotech"
 	},
 	{
 		"abr": "artificialbone",
-		"price": 333,
+		"price": 200,
 		"category": "Simple prostheses",
 		"defname": "ArtificialBone"
 	},
 	{
 		"abr": "artillery",
-		"price": 1425,
+		"price": 800,
 		"category": "Security",
 		"defname": "VFES_Turret_Artillery"
 	},
@@ -5192,19 +5192,19 @@
 	},
 	{
 		"abr": "bamboo",
-		"price": 2,
+		"price": 1,
 		"category": "Raw resources",
 		"defname": "Bamboo"
 	},
 	{
 		"abr": "banana",
-		"price": 2,
+		"price": 1,
 		"category": "Fruits",
 		"defname": "Rawbanana"
 	},
 	{
 		"abr": "barley",
-		"price": 2,
+		"price": 1,
 		"category": "Vegetarian",
 		"defname": "RawBarley"
 	},
@@ -5216,13 +5216,13 @@
 	},
 	{
 		"abr": "bean",
-		"price": 2,
+		"price": 1,
 		"category": "Vegetarian",
 		"defname": "Rawbean"
 	},
 	{
 		"abr": "beartrap",
-		"price": 236,
+		"price": 150,
 		"category": "Security",
 		"defname": "VFES_BearTrap"
 	},
@@ -5240,31 +5240,31 @@
 	},
 	{
 		"abr": "blueberry",
-		"price": 2,
+		"price": 1,
 		"category": "Fruits",
 		"defname": "Rawblueberry"
 	},
 	{
 		"abr": "bowlofstew",
-		"price": 42,
+		"price": 30,
 		"category": "Lavish Meals",
 		"defname": "bowlstew"
 	},
 	{
 		"abr": "cactusfruit",
-		"price": 2,
+		"price": 1,
 		"category": "Vegetarian",
 		"defname": "RawCactusFruit"
 	},
 	{
 		"abr": "chargeturret",
-		"price": 1708,
+		"price": 1200,
 		"category": "Security",
 		"defname": "VFES_Turret_ChargeTurret"
 	},
 	{
 		"abr": "chemfuelbarrel",
-		"price": 296,
+		"price": 200,
 		"category": "Security",
 		"defname": "VFES_ChemfuelBarrel"
 	},
@@ -5294,25 +5294,25 @@
 	},
 	{
 		"abr": "cherries",
-		"price": 2,
+		"price": 1,
 		"category": "Fruits",
 		"defname": "RawCherry"
 	},
 	{
 		"abr": "cloudberry",
-		"price": 2,
+		"price": 1,
 		"category": "Fruits",
 		"defname": "Rawcloudberry"
 	},
 	{
 		"abr": "coconut",
-		"price": 2,
+		"price": 1,
 		"category": "Fruits",
 		"defname": "RawCoconut"
 	},
 	{
 		"abr": "coffeebeans",
-		"price": 7,
+		"price": 2,
 		"category": "Plant matter",
 		"defname": "CPD_CoffeeBeans"
 	},
@@ -5330,19 +5330,19 @@
 	},
 	{
 		"abr": "cortexaugmentor",
-		"price": 7500,
+		"price": 3000,
 		"category": "Brain implants",
 		"defname": "Cortexaugmentor"
 	},
 	{
 		"abr": "date",
-		"price": 2,
+		"price": 1,
 		"category": "Fruits",
 		"defname": "Rawdate"
 	},
 	{
 		"abr": "decoy",
-		"price": 184,
+		"price": 150,
 		"category": "Security",
 		"defname": "VFES_Turret_Decoy"
 	},
@@ -5366,7 +5366,7 @@
 	},
 	{
 		"abr": "dualrefrigerator",
-		"price": 186,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "RimFridge_Refrigerator"
 	},
@@ -5384,19 +5384,19 @@
 	},
 	{
 		"abr": "fig",
-		"price": 2,
+		"price": 1,
 		"category": "Fruits",
 		"defname": "Rawfig"
 	},
 	{
 		"abr": "flameturret",
-		"price": 1117,
+		"price": 800,
 		"category": "Security",
 		"defname": "VFES_Turret_Flame"
 	},
 	{
 		"abr": "floorturret",
-		"price": 992,
+		"price": 750,
 		"category": "Security",
 		"defname": "VFES_Turret_FloorTurret"
 	},
@@ -5438,7 +5438,7 @@
 	},
 	{
 		"abr": "gooseberry",
-		"price": 2,
+		"price": 1,
 		"category": "Fruits",
 		"defname": "Rawgooseberry"
 	},
@@ -5450,7 +5450,7 @@
 	},
 	{
 		"abr": "grapes",
-		"price": 2,
+		"price": 1,
 		"category": "Fruits",
 		"defname": "Rawgrape"
 	},
@@ -5474,19 +5474,19 @@
 	},
 	{
 		"abr": "hyporegulator",
-		"price": 7500,
+		"price": 3000,
 		"category": "Brain implants",
 		"defname": "Hyporegulator"
 	},
 	{
 		"abr": "ironwood",
-		"price": 3,
+		"price": 2,
 		"category": "Raw resources",
 		"defname": "VG_IronWoodLog"
 	},
 	{
 		"abr": "landmine",
-		"price": 261,
+		"price": 200,
 		"category": "Security",
 		"defname": "VFES_Landmine"
 	},
@@ -5516,7 +5516,7 @@
 	},
 	{
 		"abr": "militaryturret",
-		"price": 850,
+		"price": 400,
 		"category": "Security",
 		"defname": "VFES_Turret_MilitaryTurret"
 	},
@@ -5528,49 +5528,49 @@
 	},
 	{
 		"abr": "moppmask(desert)",
-		"price": 500,
+		"price": 300,
 		"category": "Mopp",
 		"defname": "Apparel_MoppMaskDesert"
 	},
 	{
 		"abr": "moppmask(snow)",
-		"price": 500,
+		"price": 300,
 		"category": "Mopp",
 		"defname": "Apparel_MoppMaskSnow"
 	},
 	{
 		"abr": "moppmask(woodland)",
-		"price": 500,
+		"price": 300,
 		"category": "Mopp",
 		"defname": "Apparel_MoppMaskWoodland"
 	},
 	{
 		"abr": "moppsuit(desert)",
-		"price": 792,
+		"price": 500,
 		"category": "Mopp",
 		"defname": "Apparel_MoppSuitDesert"
 	},
 	{
 		"abr": "moppsuit(snow)",
-		"price": 792,
+		"price": 500,
 		"category": "Mopp",
 		"defname": "Apparel_MoppSuitSnow"
 	},
 	{
 		"abr": "moppsuit(woodland)",
-		"price": 792,
+		"price": 500,
 		"category": "Mopp",
 		"defname": "Apparel_MoppSuitWoodland"
 	},
 	{
 		"abr": "mushroom",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "Rawmushroom"
 	},
 	{
 		"abr": "napalmbomb",
-		"price": 383,
+		"price": 200,
 		"category": "Oil",
 		"defname": "NapalmBomb"
 	},
@@ -5588,7 +5588,7 @@
 	},
 	{
 		"abr": "neurostimulator",
-		"price": 7500,
+		"price": 2500,
 		"category": "Brain implants",
 		"defname": "Neurostimulator"
 	},
@@ -5600,7 +5600,7 @@
 	},
 	{
 		"abr": "nuclearwarhead",
-		"price": 24000,
+		"price": 8000,
 		"category": "Rimatomics Product",
 		"defname": "FissionWarhead"
 	},
@@ -5612,13 +5612,13 @@
 	},
 	{
 		"abr": "olive",
-		"price": 2,
+		"price": 1,
 		"category": "Vegetarian",
 		"defname": "RawOlive"
 	},
 	{
 		"abr": "orange",
-		"price": 2,
+		"price": 1,
 		"category": "Fruits",
 		"defname": "Raworange"
 	},
@@ -5648,13 +5648,13 @@
 	},
 	{
 		"abr": "peach",
-		"price": 2,
+		"price": 1,
 		"category": "Fruits",
 		"defname": "Rawpeach"
 	},
 	{
 		"abr": "pineapple",
-		"price": 2,
+		"price": 1,
 		"category": "Fruits",
 		"defname": "Rawpineapple"
 	},
@@ -5678,37 +5678,37 @@
 	},
 	{
 		"abr": "psychicpylon",
-		"price": 2167,
+		"price": 1200,
 		"category": "Special",
 		"defname": "VFES_PsychicPylon"
 	},
 	{
 		"abr": "quadrefrigerator",
-		"price": 307,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "RimFridge_QuadRefrigerator"
 	},
 	{
 		"abr": "r.t.g",
-		"price": 4333,
+		"price": 4000,
 		"category": "Nuclear",
 		"defname": "RimatomicsRTG"
 	},
 	{
 		"abr": "radiationmask",
-		"price": 244,
+		"price": 250,
 		"category": "Hazmat",
 		"defname": "Apparel_RadiationMask"
 	},
 	{
 		"abr": "radiationsuit",
-		"price": 383,
+		"price": 300,
 		"category": "Hazmat",
 		"defname": "Apparel_RadiationSuit"
 	},
 	{
 		"abr": "redlentil",
-		"price": 3,
+		"price": 1,
 		"category": "Meat",
 		"defname": "RawRedLentil"
 	},
@@ -5750,25 +5750,25 @@
 	},
 	{
 		"abr": "searchlight",
-		"price": 483,
+		"price": 200,
 		"category": "Security",
 		"defname": "VFES_Turret_Searchlight"
 	},
 	{
 		"abr": "sentrygun",
-		"price": 1092,
+		"price": 600,
 		"category": "Security",
 		"defname": "VFES_Turret_SentryGun"
 	},
 	{
 		"abr": "silage",
-		"price": 2,
+		"price": 1,
 		"category": "Animal Feed",
 		"defname": "Silage"
 	},
 	{
 		"abr": "singlerefrigerator",
-		"price": 121,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "RimFridge_SingleRefrigerator"
 	},
@@ -5780,19 +5780,19 @@
 	},
 	{
 		"abr": "smallshieldgenerator",
-		"price": 3983,
+		"price": 1000,
 		"category": "Security",
 		"defname": "VFES_ShieldGenerator_Small"
 	},
 	{
 		"abr": "snowbeet",
-		"price": 2,
+		"price": 1,
 		"category": "Vegetarian",
 		"defname": "Rawsnowbeet"
 	},
 	{
 		"abr": "stirfry",
-		"price": 42,
+		"price": 25,
 		"category": "Fine Meals",
 		"defname": "stirfry"
 	},
@@ -5822,7 +5822,7 @@
 	},
 	{
 		"abr": "tealeaves",
-		"price": 3,
+		"price": 1,
 		"category": "Plant matter",
 		"defname": "Rawtea"
 	},
@@ -5834,13 +5834,13 @@
 	},
 	{
 		"abr": "uncuredplasteel",
-		"price": 3,
+		"price": 2,
 		"category": "Raw resources",
 		"defname": "UncuredPlasteel"
 	},
 	{
 		"abr": "uncuredsynthamidecomposite",
-		"price": 3,
+		"price": 2,
 		"category": "Synthamide",
 		"defname": "UncuredComposite"
 	},
@@ -5858,19 +5858,19 @@
 	},
 	{
 		"abr": "walldualrefrigerator",
-		"price": 186,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "RimFridge_WallRefrigerator"
 	},
 	{
 		"abr": "wallsinglerefrigerator",
-		"price": 121,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "RimFridge_SingleWallRefrigerator"
 	},
 	{
 		"abr": "watermelon",
-		"price": 2,
+		"price": 1,
 		"category": "Fruits",
 		"defname": "Rawwatermelon"
 	},
@@ -5882,7 +5882,7 @@
 	},
 	{
 		"abr": "woolcloth",
-		"price": 3,
+		"price": 1,
 		"category": "Textiles",
 		"defname": "WoolCloth"
 	},
@@ -5894,265 +5894,265 @@
 	},
 	{
 		"abr": "feldgendararmeriegorget(3r)",
-		"price": 104,
+		"price": 100,
 		"category": "3rd Reich Military Clothing",
 		"defname": "Apparel_3RFeldgendararmerieGorget"
 	},
 	{
 		"abr": "assaultharness(3r)",
-		"price": 187,
+		"price": 100,
 		"category": "3rd Reich Military Clothing",
 		"defname": "Apparel_3RHarnessA"
 	},
 	{
 		"abr": "builderbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_I_disabled"
 	},
 	{
 		"abr": "builderbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_II_disabled"
 	},
 	{
 		"abr": "builderbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_III_disabled"
 	},
 	{
 		"abr": "builderbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_IV_disabled"
 	},
 	{
 		"abr": "builderbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Builder_V_disabled"
 	},
 	{
 		"abr": "builder(i)basestation",
-		"price": 833,
+		"price": 400,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Builder_I"
 	},
 	{
 		"abr": "builder(ii)basestation",
-		"price": 2058,
+		"price": 800,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Builder_II"
 	},
 	{
 		"abr": "builder(iii)basestation",
-		"price": 4533,
+		"price": 1600,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Builder_III"
 	},
 	{
 		"abr": "builder(iv)basestation",
-		"price": 9417,
+		"price": 3200,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Builder_IV"
 	},
 	{
 		"abr": "builder(v)basestation",
-		"price": 19092,
+		"price": 6400,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Builder_V"
 	},
 	{
 		"abr": "cleanerbasestation",
-		"price": 833,
+		"price": 400,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Cleaner"
 	},
 	{
 		"abr": "cleaner(ii)basestation",
-		"price": 2058,
+		"price": 800,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Cleaner_II"
 	},
 	{
 		"abr": "cleaner(iii)basestation",
-		"price": 4533,
+		"price": 1600,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Cleaner_III"
 	},
 	{
 		"abr": "cleaner(iv)basestation",
-		"price": 9417,
+		"price": 3200,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Cleaner_IV"
 	},
 	{
 		"abr": "cleaner(v)basestation",
-		"price": 19092,
+		"price": 6400,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Cleaner_V"
 	},
 	{
 		"abr": "cleaningbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_II_disabled"
 	},
 	{
 		"abr": "cleaningbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_III_disabled"
 	},
 	{
 		"abr": "cleaningbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_IV_disabled"
 	},
 	{
 		"abr": "cleaningbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_V_disabled"
 	},
 	{
 		"abr": "cleaningbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Cleaner_disabled"
 	},
 	{
 		"abr": "crafterbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_I_disabled"
 	},
 	{
 		"abr": "crafterbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_II_disabled"
 	},
 	{
 		"abr": "crafterbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_III_disabled"
 	},
 	{
 		"abr": "crafterbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_IV_disabled"
 	},
 	{
 		"abr": "crafterbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Crafter_V_disabled"
 	},
 	{
 		"abr": "crafter(i)basestation",
-		"price": 833,
+		"price": 400,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Crafter_I"
 	},
 	{
 		"abr": "crafter(ii)basestation",
-		"price": 2058,
+		"price": 800,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Crafter_II"
 	},
 	{
 		"abr": "crafter(iii)basestation",
-		"price": 4533,
+		"price": 1600,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Crafter_III"
 	},
 	{
 		"abr": "crafter(iv)basestation",
-		"price": 9417,
+		"price": 3200,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Crafter_IV"
 	},
 	{
 		"abr": "crafter(v)basestation",
-		"price": 19092,
+		"price": 6400,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Crafter_V"
 	},
 	{
 		"abr": "erbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_ER_I_disabled"
 	},
 	{
 		"abr": "erbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_ER_II_disabled"
 	},
 	{
 		"abr": "erbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_ER_III_disabled"
 	},
 	{
 		"abr": "erbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_ER_IV_disabled"
 	},
 	{
 		"abr": "erbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_ER_V_disabled"
 	},
 	{
 		"abr": "er(i)basestation",
-		"price": 833,
+		"price": 400,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_ER_I"
 	},
 	{
 		"abr": "er(ii)basestation",
-		"price": 2058,
+		"price": 800,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_ER_II"
 	},
 	{
 		"abr": "er(iii)basestation",
-		"price": 4533,
+		"price": 1600,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_ER_III"
 	},
 	{
 		"abr": "er(iv)basestation",
-		"price": 9417,
+		"price": 3200,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_ER_IV"
 	},
 	{
 		"abr": "er(v)basestation",
-		"price": 19092,
+		"price": 6400,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_ER_V"
 	},
 	{
 		"abr": "fallschirmjagerharness(3r)",
-		"price": 104,
+		"price": 100,
 		"category": "3rd Reich Military Clothing",
 		"defname": "Apparel_3RHarnessFal"
 	},
 	{
 		"abr": "fallschirmjageruniform(3r)",
-		"price": 333,
+		"price": 200,
 		"category": "3rd Reich Military Clothing",
 		"defname": "Apparel_3RFalUniform"
 	},
@@ -6164,295 +6164,295 @@
 	},
 	{
 		"abr": "fieldmarshaluniform(3r)",
-		"price": 322,
+		"price": 200,
 		"category": "3rd Reich Military Clothing",
 		"defname": "Apparel_3RFieldMarshal"
 	},
 	{
 		"abr": "haulerbasestation",
-		"price": 833,
+		"price": 400,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Hauler"
 	},
 	{
 		"abr": "hauler(ii)basestation",
-		"price": 2058,
+		"price": 800,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Hauler_II"
 	},
 	{
 		"abr": "hauler(iii)basestation",
-		"price": 4533,
+		"price": 1600,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Hauler_III"
 	},
 	{
 		"abr": "hauler(iv)basestation",
-		"price": 9417,
+		"price": 3200,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Hauler_IV"
 	},
 	{
 		"abr": "hauler(v)basestation",
-		"price": 19092,
+		"price": 6400,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Hauler_V"
 	},
 	{
 		"abr": "haulingbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Hauler_II_disabled"
 	},
 	{
 		"abr": "haulingbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Hauler_III_disabled"
 	},
 	{
 		"abr": "haulingbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Hauler_IV_disabled"
 	},
 	{
 		"abr": "haulingbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Hauler_V_disabled"
 	},
 	{
 		"abr": "haulingbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "AIRobot_Hauler_disabled"
 	},
 	{
 		"abr": "infantryofficeruniform(3r)",
-		"price": 350,
+		"price": 200,
 		"category": "3rd Reich Military Clothing",
 		"defname": "Apparel_3RInfOfficerUniform"
 	},
 	{
 		"abr": "infantrysplittertarnuniform(3r)",
-		"price": 358,
+		"price": 200,
 		"category": "3rd Reich Military Clothing",
 		"defname": "Apparel_3RInfSplitUniform"
 	},
 	{
 		"abr": "infantryuniform(3r)",
-		"price": 350,
+		"price": 200,
 		"category": "3rd Reich Military Clothing",
 		"defname": "Apparel_3RInfUniform"
 	},
 	{
 		"abr": "kitchenbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Kitchen_I_disabled"
 	},
 	{
 		"abr": "kitchenbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Kitchen_II_disabled"
 	},
 	{
 		"abr": "kitchenbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Kitchen_III_disabled"
 	},
 	{
 		"abr": "kitchenbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Kitchen_IV_disabled"
 	},
 	{
 		"abr": "kitchenbot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Kitchen_V_disabled"
 	},
 	{
 		"abr": "kitchen(i)basestation",
-		"price": 833,
+		"price": 400,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Kitchen_I"
 	},
 	{
 		"abr": "kitchen(ii)basestation",
-		"price": 2058,
+		"price": 800,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Kitchen_II"
 	},
 	{
 		"abr": "kitchen(iii)basestation",
-		"price": 4533,
+		"price": 1600,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Kitchen_III"
 	},
 	{
 		"abr": "kitchen(iv)basestation",
-		"price": 9417,
+		"price": 3200,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Kitchen_IV"
 	},
 	{
 		"abr": "kitchen(v)basestation",
-		"price": 19092,
+		"price": 6400,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Kitchen_V"
 	},
 	{
 		"abr": "m40infantry(3r)",
-		"price": 125,
+		"price": 100,
 		"category": "Headgear",
 		"defname": "Apparel_3RM40Inf"
 	},
 	{
 		"abr": "m40waffenss(3r)",
-		"price": 125,
+		"price": 100,
 		"category": "Headgear",
 		"defname": "Apparel_3RM40SS"
 	},
 	{
 		"abr": "m43infantry(3r)",
-		"price": 139,
+		"price": 100,
 		"category": "Headgear",
 		"defname": "Apparel_3RM43Inf"
 	},
 	{
 		"abr": "m43waffenss(3r)",
-		"price": 125,
+		"price": 100,
 		"category": "Headgear",
 		"defname": "Apparel_3RM43SS"
 	},
 	{
 		"abr": "m43waffensspeadot(3r)",
-		"price": 125,
+		"price": 100,
 		"category": "Headgear",
 		"defname": "Apparel_3RM43SSPeadot"
 	},
 	{
 		"abr": "neutroaleaves",
-		"price": 8,
+		"price": 1,
 		"category": "Plant matter",
 		"defname": "item_Neutroaleaf"
 	},
 	{
 		"abr": "officerbelt(3r)",
-		"price": 104,
+		"price": 100,
 		"category": "3rd Reich Military Clothing",
 		"defname": "Apparel_3ROfficerbelt"
 	},
 	{
 		"abr": "officercapinfantry(3r)",
-		"price": 142,
+		"price": 100,
 		"category": "Headgear",
 		"defname": "Apparel_3ROfficerCapInf"
 	},
 	{
 		"abr": "officercapwaffenss(3r)",
-		"price": 142,
+		"price": 100,
 		"category": "Headgear",
 		"defname": "Apparel_3ROfficerCapSS"
 	},
 	{
 		"abr": "omni(v)basestation",
-		"price": 19092,
+		"price": 6400,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Omni_V"
 	},
 	{
 		"abr": "omnibot(disabled)",
-		"price": 42,
+		"price": -10,
 		"category": "Robots",
 		"defname": "RPP_Bot_Omni_V_disabled"
 	},
 	{
 		"abr": "riflemanharness(3r)",
-		"price": 154,
+		"price": 100,
 		"category": "3rd Reich Military Clothing",
 		"defname": "Apparel_3RHarnessRif"
 	},
 	{
 		"abr": "roboticcomponent",
-		"price": 333,
+		"price": 100,
 		"category": "Items",
 		"defname": "RPP_Component"
 	},
 	{
 		"abr": "roboticmatrix(advanced)",
-		"price": 8817,
+		"price": 1000,
 		"category": "Items",
 		"defname": "RPP_Matrix_IV"
 	},
 	{
 		"abr": "roboticmatrix(anti-logic)",
-		"price": 17967,
+		"price": 1500,
 		"category": "Items",
 		"defname": "RPP_Matrix_V"
 	},
 	{
 		"abr": "roboticmatrix(basic)",
-		"price": 1825,
+		"price": 250,
 		"category": "Items",
 		"defname": "RPP_Matrix_II"
 	},
 	{
 		"abr": "roboticmatrix(intermediate)",
-		"price": 4158,
+		"price": 600,
 		"category": "Items",
 		"defname": "RPP_Matrix_III"
 	},
 	{
 		"abr": "roboticmatrix(simple)",
-		"price": 775,
+		"price": 400,
 		"category": "Items",
 		"defname": "RPP_Matrix_I"
 	},
 	{
 		"abr": "roboticsworkbench",
-		"price": 1475,
+		"price": 1000,
 		"category": "Production",
 		"defname": "Table_RPP_RoboticsBench"
 	},
 	{
 		"abr": "sshonorguarduniform(3r)",
-		"price": 322,
+		"price": 200,
 		"category": "3rd Reich Military Clothing",
 		"defname": "Apparel_3RSSHonorguard"
 	},
 	{
 		"abr": "stahlhelmm38fallschirmjager(3r)",
-		"price": 197,
+		"price": 200,
 		"category": "Headgear",
 		"defname": "Apparel_3RM38Fal"
 	},
 	{
 		"abr": "stahlhelmm38fallschirmjagercamo(3r)",
-		"price": 197,
+		"price": 200,
 		"category": "Headgear",
 		"defname": "Apparel_3RM38FalCam"
 	},
 	{
 		"abr": "stahlhelmm38fallschirmjagerwinter(3r)",
-		"price": 197,
+		"price": 200,
 		"category": "Headgear",
 		"defname": "Apparel_3RM38FalWinter"
 	},
 	{
 		"abr": "stahlhelmm42goggles(3r)",
-		"price": 197,
+		"price": 200,
 		"category": "Headgear",
 		"defname": "Apparel_3RStahlhelmM42Gogg"
 	},
 	{
 		"abr": "stahlhelmm42infantry(3r)",
-		"price": 197,
+		"price": 200,
 		"category": "Headgear",
 		"defname": "Apparel_3RStahlhelmM42Inf"
 	},
@@ -6464,7 +6464,7 @@
 	},
 	{
 		"abr": "stahlhelmm42infantrystraps(3r)",
-		"price": 197,
+		"price": 200,
 		"category": "Headgear",
 		"defname": "Apparel_3RStahlhelmM42InfStraps"
 	},
@@ -6476,13 +6476,13 @@
 	},
 	{
 		"abr": "stahlhelmm42sshonorguard(3r)",
-		"price": 197,
+		"price": 200,
 		"category": "Headgear",
 		"defname": "Apparel_3RStahlhelmM42SSHonorguard"
 	},
 	{
 		"abr": "stahlhelmm42waffenss(3r)",
-		"price": 197,
+		"price": 200,
 		"category": "Headgear",
 		"defname": "Apparel_3RStahlhelmM42SS"
 	},
@@ -6512,73 +6512,73 @@
 	},
 	{
 		"abr": "stahlhelmm42winter(3r)",
-		"price": 197,
+		"price": 200,
 		"category": "Headgear",
 		"defname": "Apparel_3RStahlhelmM42Winter"
 	},
 	{
 		"abr": "trenchcoat(3r)",
-		"price": 400,
+		"price": 200,
 		"category": "3rd Reich Military Clothing",
 		"defname": "Apparel_3RNaziTrenchCoat"
 	},
 	{
 		"abr": "waffenssofficeruniform(3r)",
-		"price": 322,
+		"price": 200,
 		"category": "3rd Reich Military Clothing",
 		"defname": "Apparel_3RSSOfficerUniform"
 	},
 	{
 		"abr": "waffensspeadotuniform(3r)",
-		"price": 350,
+		"price": 200,
 		"category": "3rd Reich Military Clothing",
 		"defname": "Apparel_3RSSPeaDotUniform"
 	},
 	{
 		"abr": "waffensssmockoaka(3r)",
-		"price": 333,
+		"price": 200,
 		"category": "3rd Reich Military Clothing",
 		"defname": "Apparel_3RSSsmockOakA"
 	},
 	{
 		"abr": "waffensssmockoakb(3r)",
-		"price": 333,
+		"price": 200,
 		"category": "3rd Reich Military Clothing",
 		"defname": "Apparel_3RSSsmockOakB"
 	},
 	{
 		"abr": "waffenssuniform(3r)",
-		"price": 350,
+		"price": 200,
 		"category": "3rd Reich Military Clothing",
 		"defname": "Apparel_3RSSUniform"
 	},
 	{
 		"abr": "winterreichcoat(3r)",
-		"price": 375,
+		"price": 200,
 		"category": "3rd Reich Military Clothing",
 		"defname": "Apparel_3RNaziCoat"
 	},
 	{
 		"abr": "zeltbahn(3r)",
-		"price": 247,
+		"price": 100,
 		"category": "3rd Reich Military Clothing",
 		"defname": "Apparel_3RZelt"
 	},
 	{
 		"abr": "ak-12",
-		"price": 625,
+		"price": 400,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_AKTwelve"
 	},
 	{
 		"abr": "ak-47",
-		"price": 592,
+		"price": 400,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_AKFortySeven"
 	},
 	{
 		"abr": "aks-74u",
-		"price": 567,
+		"price": 400,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_AKSSeventyFourU"
 	},
@@ -6596,7 +6596,7 @@
 	},
 	{
 		"abr": "fnfal",
-		"price": 625,
+		"price": 400,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_FNFAL"
 	},
@@ -6614,7 +6614,7 @@
 	},
 	{
 		"abr": "hampers",
-		"price": 383,
+		"price": 200,
 		"category": "Furniture",
 		"defname": "LWM_FabricHamper"
 	},
@@ -6626,19 +6626,19 @@
 	},
 	{
 		"abr": "l-20chargelmg",
-		"price": 1642,
+		"price": 1200,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_ChargeLMG"
 	},
 	{
 		"abr": "m60",
-		"price": 892,
+		"price": 800,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_MSixty"
 	},
 	{
 		"abr": "m72law",
-		"price": 85,
+		"price": 130,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_M72LAW"
 	},
@@ -6680,31 +6680,31 @@
 	},
 	{
 		"abr": "militarygradecratelarge",
-		"price": 2225,
+		"price": 1500,
 		"category": "Furniture",
 		"defname": "JDSMilitary_Grade_crate_Large"
 	},
 	{
 		"abr": "militarygradecratelong",
-		"price": 917,
+		"price": 800,
 		"category": "Furniture",
 		"defname": "JDSMilitary_Grade_Crate_Long"
 	},
 	{
 		"abr": "militarygradecratesmall",
-		"price": 550,
+		"price": 450,
 		"category": "Furniture",
 		"defname": "JDSMilitaryGradeCrateSmall"
 	},
 	{
 		"abr": "militarygradecratesmallpile",
-		"price": 3008,
+		"price": 400,
 		"category": "Furniture",
 		"defname": "JDSMilitary_Grade_Crate_Small_Pile"
 	},
 	{
 		"abr": "milkormgl",
-		"price": 475,
+		"price": 500,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_MilkorMGL"
 	},
@@ -6734,37 +6734,37 @@
 	},
 	{
 		"abr": "pkm",
-		"price": 808,
+		"price": 700,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_PKM"
 	},
 	{
 		"abr": "poweredmace",
-		"price": 1575,
+		"price": 1000,
 		"category": "Melee weapons",
 		"defname": "CE_Melee_PoweredMace"
 	},
 	{
 		"abr": "poweredmaul",
-		"price": 3217,
+		"price": 2000,
 		"category": "Melee weapons",
 		"defname": "CE_Melee_PoweredMaul"
 	},
 	{
 		"abr": "poweredshortsword",
-		"price": 1592,
+		"price": 1250,
 		"category": "Melee weapons",
 		"defname": "CE_Melee_PoweredShortsword"
 	},
 	{
 		"abr": "ptrs-41",
-		"price": 867,
+		"price": 700,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_PTRS"
 	},
 	{
 		"abr": "r-11precisionrifle",
-		"price": 1533,
+		"price": 1200,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_ChargeSniperRifle"
 	},
@@ -6776,55 +6776,55 @@
 	},
 	{
 		"abr": "rpd",
-		"price": 783,
+		"price": 500,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_RPD"
 	},
 	{
 		"abr": "rpg-7",
-		"price": 600,
+		"price": 800,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_RPGSeven"
 	},
 	{
 		"abr": "s-14chargesmg",
-		"price": 1450,
+		"price": 1350,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_ChargeSMG"
 	},
 	{
 		"abr": "shippingcontainerblue",
-		"price": 9033,
+		"price": 2000,
 		"category": "Furniture",
 		"defname": "JDSShippingContainerBlue"
 	},
 	{
 		"abr": "shippingcontainergreen",
-		"price": 9033,
+		"price": 2000,
 		"category": "Furniture",
 		"defname": "JDSShippingContainerGreen"
 	},
 	{
 		"abr": "shippingcontainerred",
-		"price": 9033,
+		"price": 2000,
 		"category": "Furniture",
 		"defname": "JDSShippingContainerRed"
 	},
 	{
 		"abr": "skip",
-		"price": 305,
+		"price": 200,
 		"category": "Furniture",
 		"defname": "LWM_DeepStorage_Skip"
 	},
 	{
 		"abr": "sks",
-		"price": 383,
+		"price": 300,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_SKS"
 	},
 	{
 		"abr": "svd",
-		"price": 558,
+		"price": 500,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_SVD"
 	},
@@ -6848,67 +6848,67 @@
 	},
 	{
 		"abr": "usas-12",
-		"price": 658,
+		"price": 600,
 		"category": "Ranged weapons",
 		"defname": "CE_Gun_USASTwelve"
 	},
 	{
 		"abr": "wastelanderassaultrifle",
-		"price": 450,
+		"price": 250,
 		"category": "Ranged weapons",
 		"defname": "Gun_Wastelander_AssaultRifle"
 	},
 	{
 		"abr": "wastelanderautopistol",
-		"price": 163,
+		"price": 150,
 		"category": "Ranged weapons",
 		"defname": "Gun_Wastelander_Autopistol"
 	},
 	{
 		"abr": "wastelanderbolt-actionrifle",
-		"price": 214,
+		"price": 200,
 		"category": "Ranged weapons",
 		"defname": "Gun_Wastelander_BoltActionRifle"
 	},
 	{
 		"abr": "wastelanderchainshotgun",
-		"price": 392,
+		"price": 300,
 		"category": "Ranged weapons",
 		"defname": "Gun_Wastelander_ChainShotgun"
 	},
 	{
 		"abr": "wastelanderheavysmg",
-		"price": 320,
+		"price": 250,
 		"category": "Ranged weapons",
 		"defname": "Gun_Wastelander_HeavySMG"
 	},
 	{
 		"abr": "wastelanderlmg",
-		"price": 433,
+		"price": 350,
 		"category": "Ranged weapons",
 		"defname": "Gun_Wastelander_LMG"
 	},
 	{
 		"abr": "wastelandermachinepistol",
-		"price": 229,
+		"price": 200,
 		"category": "Ranged weapons",
 		"defname": "Gun_Wastelander_MachinePistol"
 	},
 	{
 		"abr": "wastelanderpumpshotgun",
-		"price": 172,
+		"price": 150,
 		"category": "Ranged weapons",
 		"defname": "Gun_Wastelander_PumpShotgun"
 	},
 	{
 		"abr": "wastelanderrevolver",
-		"price": 84,
+		"price": 50,
 		"category": "Ranged weapons",
 		"defname": "Gun_Wastelander_Revolver"
 	},
 	{
 		"abr": "wastelandersniperrifle",
-		"price": 650,
+		"price": 400,
 		"category": "Ranged weapons",
 		"defname": "Gun_Wastelander_SniperRifle"
 	},
@@ -6926,37 +6926,37 @@
 	},
 	{
 		"abr": "woodencrate",
-		"price": 144,
+		"price": 150,
 		"category": "Furniture",
 		"defname": "JDS_Wooden_Crate"
 	},
 	{
 		"abr": "woodencrate2",
-		"price": 224,
+		"price": 200,
 		"category": "Furniture",
 		"defname": "JDS_Wooden_Crate_Two"
 	},
 	{
 		"abr": "woodencrate3",
-		"price": 342,
+		"price": 250,
 		"category": "Furniture",
 		"defname": "JDS_Wooden_Crate_Three"
 	},
 	{
 		"abr": "woodencrate4",
-		"price": 500,
+		"price": 300,
 		"category": "Furniture",
 		"defname": "JDS_Wooden_Crate_four"
 	},
 	{
 		"abr": "woodencratelarge",
-		"price": 542,
+		"price": 350,
 		"category": "Furniture",
 		"defname": "JDS_Wooden_Crate_Large"
 	},
 	{
 		"abr": "wraithblade",
-		"price": 5000,
+		"price": 2500,
 		"category": "Melee weapons",
 		"defname": "CE_Melee_WraithBlade"
 	},
@@ -6965,6 +6965,24 @@
 		"price": 650,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zweihander"
+	},
+	{
+		"abr": "compoundarrow",
+		"price": 1,
+		"category": "Arrows",
+		"defname": "Ammo_VWE_CompoundArrow"
+	},
+	{
+		"abr": "extinguisherfuel",
+		"price": 1,
+		"category": "Extinguisher fuel",
+		"defname": "Ammo_VWE_Extinguisher"
+	},
+	{
+		"abr": "leadball",
+		"price": 4,
+		"category": "Lead ball",
+		"defname": "Ammo_VWE_LeadBall"
 	},
 	{
 		"abr": "arrow(flame)",
@@ -6979,18 +6997,6 @@
 		"defname": "Ammo_Arrow_Venom"
 	},
 	{
-		"abr": "compoundarrow",
-		"price": 3,
-		"category": "Arrows",
-		"defname": "Ammo_VWE_CompoundArrow"
-	},
-	{
-		"abr": "extinguisherfuel",
-		"price": 1,
-		"category": "Extinguisher fuel",
-		"defname": "Ammo_VWE_Extinguisher"
-	},
-	{
 		"abr": "greatarrow(flame)",
 		"price": 3,
 		"category": "Great arrows",
@@ -7001,13 +7007,7 @@
 		"price": 5,
 		"category": "Great arrows",
 		"defname": "Ammo_GreatArrow_Venom"
-	},
-	{
-		"abr": "leadball",
-		"price": 4,
-		"category": "Lead ball",
-		"defname": "Ammo_VWE_LeadBall"
 	}
 	],
-	"total": 2460
+	"total": 2464
 }
