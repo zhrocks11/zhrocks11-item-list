@@ -165,6 +165,37 @@
                             </table>
                         </div>
                     </div>
+					<div class="row" ng-show='selected == 3'>
+                    <div class="col-md-12">
+                        <div id="events">
+                            <div class="input-group input-group-sm mb-3">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text" id="inputGroup-sizing-sm">Search</span>
+                                </div>
+                                <input type="text" class="form-control search" aria-label="Search" aria-describedby="inputGroup-sizing-sm">
+                            </div>
+                            <p>
+                                <button type="button" class="btn btn-primary sort" data-sort="abr">
+                                    Sort
+                                </button>
+                                <button type="button" class="btn btn-primary sort" data-sort="price">
+                                    Sort by Price
+                                </button>
+                                <button type="button" class="btn btn-primary sort" data-sort="karmatype">
+                                    Sort by Karma
+                                </button>
+                            </p>
+                            <table class="table events">
+                                <tr>
+                                    <th scope="col" class="sort" data-sort="abr">Name</th>
+                                    <th scope="col" class="sort" data-sort="price">Price</th>
+                                    <th scope="col" class="sort" data-sort="karmatype">Karma</th>
+                                </tr>
+                                <tbody class="list">
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
